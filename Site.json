@@ -16,10 +16,11 @@
       "name": "SamsunJapan",
       "url": "https://www.samsung.com/jp",
       "rss_items": 5,
-      "interval_sec": 30,
+      "interval_sec": 600,
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
     }
   ]
 }
+
 
 
