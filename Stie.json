@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "name": "VRChatStatus",
+      "url": "https://status.vrchat.com/history.rss",
+      "interval_sec": 30
+    },
+    {
+      "name": "VRChatStatus.atom",
+      "url": "https://status.vrchat.com/history.atom",
+      "rss_items": 5,
+      "interval_sec": 30,
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    }
+  ]
+}
