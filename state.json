@@ -33,14 +33,14 @@
   },
   "sites": {
     "VRChatStatus": {
-      "hash": "88b1eeac72ce0c4750e7c34d436fdb6c80c4f781732df9ff07339c990b06ee12",
-      "last_updated": "2025-11-02T20:45:37.323721+09:00",
-      "last_checked": "2025-11-03T06:16:14.847592+09:00"
+      "hash": "a09b558eaa38e8480a3cd70a8b88ee3c6659677346b9310c588c54fc8d237b91",
+      "last_updated": "2025-11-03T06:17:19.351576+09:00",
+      "last_checked": "2025-11-03T06:17:19.351576+09:00"
     },
     "VRChatStatus.atom": {
-      "hash": "2743223c6eed6a6df7727dd02020b193f2b8d33b0e3c3d51afcecf52673099d5",
-      "last_updated": "2025-11-02T20:37:03.792504+09:00",
-      "last_checked": "2025-11-03T06:16:14.847592+09:00"
+      "hash": "60397fb934fb5692710a5fd20df35b9f1df62c2301c6d384db77b82eb80c5932",
+      "last_updated": "2025-11-03T06:17:19.351576+09:00",
+      "last_checked": "2025-11-03T06:17:19.351576+09:00"
     },
     "SamsunJapan": {
       "hash": "a9d679602148dbb1f0ae68483016aff58ea385b3340b0d9e2d87cbaf76e53fc7",
@@ -48,9 +48,9 @@
       "last_checked": "2025-11-03T06:16:14.847592+09:00"
     },
     "AppleJapan": {
-      "hash": "033ba9ad53a2888b53d49333ebe8431ad0767397efe60025b5f97fd7e22fe226",
-      "last_updated": "2025-11-03T06:06:53.146351+09:00",
-      "last_checked": "2025-11-03T06:06:53.146351+09:00"
+      "hash": "5e0d7dafaca96971a6d4a97ecb2b58d1c529231407a9c9f6269fe071ffa6a3e7",
+      "last_updated": "2025-11-03T06:17:19.351576+09:00",
+      "last_checked": "2025-11-03T06:17:19.351576+09:00"
     }
   }
 }
