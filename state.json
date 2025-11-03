@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "e9e3a736cae0202294ea419a62b5c323fa43e9ab",
-    "fetched_at": "2025-11-02T23:11:49.019118+09:00",
+    "fetched_at": "2025-11-03T11:12:20.312283+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -35,12 +35,12 @@
     "VRChatStatus": {
       "hash": "c221e7d2cc165613c2b5cecffb1839e360f9a47b0c0fc6d7134c246f5c59b39c",
       "last_updated": "2025-11-03T10:16:53.280849+09:00",
-      "last_checked": "2025-11-03T11:11:17.633647+09:00"
+      "last_checked": "2025-11-03T11:12:20.312362+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "b2217d9ce82658c57bcbfa75776bad0723785a83dc19be1ddf0beb09e4b5aaa2",
       "last_updated": "2025-11-03T10:22:13.906384+09:00",
-      "last_checked": "2025-11-03T11:11:17.633647+09:00"
+      "last_checked": "2025-11-03T11:12:20.312362+09:00"
     },
     "SamsunJapan": {
       "hash": "e00350b9787bf09e737f1c6c9722d4ebefa700f56cbfdf8be22604e80518847f",
