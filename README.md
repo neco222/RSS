@@ -1,4 +1,7 @@
 ## 更新ログ
+- 2025-11-04 07:02:33 JST — VRChatStatus
+- 2025-11-04 07:02:33 JST — VRChatStatus.atom
+
 - 2025-11-04 06:53:00 JST — SamsunJapan
 - 2025-11-04 06:53:00 JST — AppleJapan
 
