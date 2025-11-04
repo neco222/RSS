@@ -25,7 +25,22 @@
         "/carts",
         "^https://booth\\.pm/$"
       ]
+    },
+    {
+      "name": "BoothVRChat-ACC",
+      "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": ["^https://booth\\.pm/(?:ja/)?items/\\d+$"],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
     }
   ]
 }
+
 
