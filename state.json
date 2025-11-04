@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
-    "sha": "e277d88eb32b4e412680c5ad125fbb552d24c133",
-    "fetched_at": "2025-11-04T17:47:24.889760+09:00",
+    "sha": "864ccfc78cd1ee477488b70cd0fbaf8bed515c7f",
+    "fetched_at": "2025-11-05T05:47:48.001818+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -19,7 +19,23 @@
         "name": "BoothVRChat-ACC",
         "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
         "rss_items": 30,
-        "interval_sec": 600,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
         "include_regex": [
           "^https://booth\\.pm/(?:ja/)?items/\\d+$"
         ],
@@ -37,17 +53,17 @@
     "VRChatStatus": {
       "hash": "89725d6627dbaf954c8304a6ca8e48f93d8c25195cf637de2dd951205651a406",
       "last_updated": "2025-11-04T23:29:56.737511+09:00",
-      "last_checked": "2025-11-05T05:46:45.725498+09:00"
+      "last_checked": "2025-11-05T05:47:48.001856+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "80223773c1aa1261747cf9ff804269d020b3414e0b190b06fcab29c650736255",
       "last_updated": "2025-11-04T23:18:10.168580+09:00",
-      "last_checked": "2025-11-05T05:46:45.725498+09:00"
+      "last_checked": "2025-11-05T05:47:48.001856+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "8e3225d6aa421703dfd4815582ca684833dd1aa1bac20c8bedd7c76d1d600a9d",
-      "last_updated": "2025-11-05T05:37:23.464109+09:00",
-      "last_checked": "2025-11-05T05:37:23.464109+09:00"
+      "hash": "d2108c8724f41b9026c259da3b82cc0af2b72de84fad4a3f19a089d0226ab02a",
+      "last_updated": "2025-11-05T05:47:48.001856+09:00",
+      "last_checked": "2025-11-05T05:47:48.001856+09:00"
     }
   }
 }
