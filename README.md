@@ -1,4 +1,6 @@
 ## 更新ログ
+- 2025-11-04 23:18:10 JST — VRChatStatus.atom
+
 - 2025-11-04 23:17:04 JST — VRChatStatus
 
 - 2025-11-04 23:10:47 JST — BoothVRChat-ACC
