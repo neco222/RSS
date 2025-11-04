@@ -16,7 +16,7 @@
       "name": "BoothVRChat-ACC",
       "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
       "rss_items": 30,
-      "interval_sec": 600,
+      "interval_sec": 120,
       "include_regex": ["^https://booth\\.pm/(?:ja/)?items/\\d+$"],
       "exclude_regex": [
         "/users/sign_in",
@@ -28,3 +28,4 @@
     }
   ]
 }
+
