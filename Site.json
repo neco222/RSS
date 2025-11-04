@@ -12,15 +12,23 @@
       "interval_sec": 30,
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
     },
-        {
+    {
       "name": "BoothVRChat",
       "url": "https://booth.pm/ja/search/VRChat?sort=new",
+      "rss_items": 5,
+      "interval_sec": 30,
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "BoothVRChat-ACC",
+      "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
       "rss_items": 5,
       "interval_sec": 30,
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
     }
   ]
 }
+
 
 
 
