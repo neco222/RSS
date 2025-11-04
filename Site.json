@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "BoothVRChat-ACC",
+      "name": "BoothVRChat-clothe",
       "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
       "rss_items": 30,
       "interval_sec": 120,
@@ -42,5 +42,6 @@
     }
   ]
 }
+
 
 
