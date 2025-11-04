@@ -1,4 +1,7 @@
 ## 更新ログ
+- 2025-11-04 17:19:14 JST — BoothVRChat
+- 2025-11-04 17:19:14 JST — BoothVRChat-ACC
+
 - 2025-11-04 17:10:52 JST — SamsunJapan
 
 - 2025-11-04 17:00:24 JST — SamsunJapan
