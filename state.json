@@ -1,0 +1,74 @@
+{
+  "site_manifest_cache": {
+    "sha": "dd8e0070b448a45162e3f9eb780113c5f784ef01",
+    "fetched_at": "2025-11-05T08:57:15.010014+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      }
+    ]
+  },
+  "sites": {
+    "VRChatStatus": {
+      "hash": "89725d6627dbaf954c8304a6ca8e48f93d8c25195cf637de2dd951205651a406",
+      "last_updated": "2025-11-05T08:57:15.010046+09:00",
+      "last_checked": "2025-11-05T08:57:15.010046+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "80223773c1aa1261747cf9ff804269d020b3414e0b190b06fcab29c650736255",
+      "last_updated": "2025-11-05T08:57:15.010046+09:00",
+      "last_checked": "2025-11-05T08:57:15.010046+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "a53e11edc745ebc16b104ad1f2b0cdd5e366671b54081e316f4c902bfe19a5f1",
+      "last_updated": "2025-11-05T08:57:15.010046+09:00",
+      "last_checked": "2025-11-05T08:57:15.010046+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "cfa9768bf71671144f0a311782c50aa0bb3dfbaa632f85673c8f9e94eba72320",
+      "last_updated": "2025-11-05T08:57:15.010046+09:00",
+      "last_checked": "2025-11-05T08:57:15.010046+09:00"
+    }
+  }
+}
