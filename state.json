@@ -67,29 +67,29 @@
   },
   "sites": {
     "VRChatStatus": {
-      "hash": "ecd2f30f5a5856ce033485424bcef07df8381bb6c9f290585164995b3c9047c4",
-      "last_updated": "2025-11-07T05:21:33.669489+09:00",
-      "last_checked": "2025-11-07T05:27:05.676876+09:00"
+      "hash": "255241bd474f63dadc2e2c0382faa847f429ccdd54018e5980ffdc6b6436e8de",
+      "last_updated": "2025-11-07T05:28:08.755431+09:00",
+      "last_checked": "2025-11-07T05:28:08.755431+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "27e08d8a55d630431b9d013ea3ba9708ed359e247c9e6ef3fb66ff86851ac70a",
       "last_updated": "2025-11-07T05:21:33.669489+09:00",
-      "last_checked": "2025-11-07T05:27:05.676876+09:00"
+      "last_checked": "2025-11-07T05:28:08.755431+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "448760655e09a0848255466fbb2da3a18edd2349348d6e82a495c9e1ede30692",
-      "last_updated": "2025-11-07T05:25:56.606639+09:00",
-      "last_checked": "2025-11-07T05:25:56.606639+09:00"
+      "hash": "678c0178633943b333e6fc11b5402573bc34a909823a31f84725f06af4b040c8",
+      "last_updated": "2025-11-07T05:28:08.755431+09:00",
+      "last_checked": "2025-11-07T05:28:08.755431+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "2d618c096e5186ff764c9ddc3a49bd3008eccfab2270897fef996f71db0341d1",
-      "last_updated": "2025-11-07T05:25:56.606639+09:00",
-      "last_checked": "2025-11-07T05:25:56.606639+09:00"
+      "hash": "1188ef2f234d40eb1a0728d8d260a9377dd0460035498c27cd5584828c5824e1",
+      "last_updated": "2025-11-07T05:28:08.755431+09:00",
+      "last_checked": "2025-11-07T05:28:08.755431+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "af12df94c4f1218deb4ae04e14f4ea513c84fc10415bc24ae3a35a55bc86d3e8",
-      "last_updated": "2025-11-07T05:25:56.606639+09:00",
-      "last_checked": "2025-11-07T05:25:56.606639+09:00"
+      "hash": "0db99cad0e56756ddcd195319cc58feb341752cc601d94fb339fdf69760858b7",
+      "last_updated": "2025-11-07T05:28:08.755431+09:00",
+      "last_checked": "2025-11-07T05:28:08.755431+09:00"
     }
   }
 }
