@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "3be05e2fd6af3a5d3eeff4a100c86d07509ce1d9",
-    "fetched_at": "2025-11-08T00:41:04.466813+09:00",
+    "fetched_at": "2025-11-08T12:41:39.338436+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -69,27 +69,27 @@
     "VRChatStatus": {
       "hash": "61b7a95d7db372f6975251b99baed86e1df9163cc67de009b891c4e7f6156573",
       "last_updated": "2025-11-08T06:41:30.130530+09:00",
-      "last_checked": "2025-11-08T12:40:36.708308+09:00"
+      "last_checked": "2025-11-08T12:41:39.338480+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "f1f324eb9436f2e6d2be4e580893bc0ac01725552bfa4321bf5818053bbbf097",
       "last_updated": "2025-11-08T06:44:30.393449+09:00",
-      "last_checked": "2025-11-08T12:40:36.708308+09:00"
+      "last_checked": "2025-11-08T12:41:39.338480+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "2bc0c0ef9833284fb860af120ccbbffce99d0ba496f44eba9e514f8fdd861dbe",
-      "last_updated": "2025-11-08T12:39:27.102439+09:00",
-      "last_checked": "2025-11-08T12:39:27.102439+09:00"
+      "hash": "e275fec8ba3f625067922c08cd826b99d33c3c439fd1123bb8960bba19e6b356",
+      "last_updated": "2025-11-08T12:41:39.338480+09:00",
+      "last_checked": "2025-11-08T12:41:39.338480+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "e2e06ac17e2f0b91be8f77e10d03343bd3e9500a20cbfcbf62662ae23ca80741",
-      "last_updated": "2025-11-08T12:39:27.102439+09:00",
-      "last_checked": "2025-11-08T12:39:27.102439+09:00"
+      "hash": "b0bcaa3bf06f0438beddb8b28398b9bccb944a163f8d6e751126da2704a80790",
+      "last_updated": "2025-11-08T12:41:39.338480+09:00",
+      "last_checked": "2025-11-08T12:41:39.338480+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "8a0262dfa5a0f9a86d52660021757df9309ce6147f9a783085208e88124ec48e",
-      "last_updated": "2025-11-08T12:39:27.102439+09:00",
-      "last_checked": "2025-11-08T12:39:27.102439+09:00"
+      "hash": "545d07ced445c21d125bf277e0ae79169b67d79c46b48cc11135125e4047e82e",
+      "last_updated": "2025-11-08T12:41:39.338480+09:00",
+      "last_checked": "2025-11-08T12:41:39.338480+09:00"
     }
   }
 }
