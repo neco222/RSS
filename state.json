@@ -67,29 +67,29 @@
   },
   "sites": {
     "VRChatStatus": {
-      "hash": "3dc6b4aa2d510832d825e2579ad4d288c8cb0cb1768b67136f06da08a09bcc5e",
-      "last_updated": "2025-11-09T03:22:20.431216+09:00",
-      "last_checked": "2025-11-09T05:26:03.500529+09:00"
+      "hash": "21417466828d76e534860b0d6f7394f6c01823eb2cb531ff61349f364ec1abe4",
+      "last_updated": "2025-11-09T05:27:05.438760+09:00",
+      "last_checked": "2025-11-09T05:27:05.438760+09:00"
     },
     "VRChatStatus.atom": {
-      "hash": "ac1ff3ce170fad8b5a937f975ff49ea820543b5656862f30761678dc8ecb94f6",
-      "last_updated": "2025-11-09T03:22:20.431216+09:00",
-      "last_checked": "2025-11-09T05:26:03.500529+09:00"
+      "hash": "07a8c5d86d0c39edf3f86f375261b9f11c4016fbd214c904fab3c592aa56187f",
+      "last_updated": "2025-11-09T05:27:05.438760+09:00",
+      "last_checked": "2025-11-09T05:27:05.438760+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "ad762d59cb2bdccfa1f378bac2be88413e8daee850876b80adebbabd6b258ecc",
-      "last_updated": "2025-11-09T05:24:53.692390+09:00",
-      "last_checked": "2025-11-09T05:24:53.692390+09:00"
+      "hash": "c8e97325145dd3bfd8cf9c8bf2f4d8908a4a1c0a791bc8b3ebadff27cddb689b",
+      "last_updated": "2025-11-09T05:27:05.438760+09:00",
+      "last_checked": "2025-11-09T05:27:05.438760+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "bef8963b642c7376db8e77f2f1a7a2441f1bd692eb1c6ecf893819efe969b299",
-      "last_updated": "2025-11-09T05:24:53.692390+09:00",
-      "last_checked": "2025-11-09T05:24:53.692390+09:00"
+      "hash": "ce4fe38545b2d99170b81fe31958f0b57da71ad6f0666809a9cb09089c7b4a2d",
+      "last_updated": "2025-11-09T05:27:05.438760+09:00",
+      "last_checked": "2025-11-09T05:27:05.438760+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "c1f47c53766f9a6a8bcdbc95b11df934d531fdf0def8beaa4068e0e089571242",
-      "last_updated": "2025-11-09T05:24:53.692390+09:00",
-      "last_checked": "2025-11-09T05:24:53.692390+09:00"
+      "hash": "ffae6e62f59c6c157972562fe1b8afe5655f01112a41705f3ed9e56ba0f8ee5e",
+      "last_updated": "2025-11-09T05:27:05.438760+09:00",
+      "last_checked": "2025-11-09T05:27:05.438760+09:00"
     }
   }
 }
