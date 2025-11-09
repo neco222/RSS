@@ -4,7 +4,8 @@
       "name": "VRChatStatus",
       "url": "https://status.vrchat.com/history.rss",
       "interval_sec": 30,
-      "timezone": "Asia/Tokyo"
+      "tz": "Asia/Tokyo",
+      "rss_time_tz": "local" 
     },
     {
       "name": "VRChatStatus.atom",
@@ -57,6 +58,7 @@
     }
   ]
 }
+
 
 
 
