@@ -1,3 +1,96 @@
 {
-  "sites": {}
+  "sites": {
+    "VRChatStatus": {
+      "hash": "6483442f1d1cafb1de771005d5628ad6a023a7b922878328dd63578b3c235e36",
+      "last_updated": "2025-11-09T17:34:59.902310+09:00",
+      "last_checked": "2025-11-09T17:34:59.902310+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "5392510ed8dcc2101fe75518995cf037741010896557fed4e96ccf6a6cf2daa6",
+      "last_updated": "2025-11-09T17:35:02.022671+09:00",
+      "last_checked": "2025-11-09T17:35:02.022671+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "83c1b8db26173d10116df27d7da6b39195a2e0d172558b50f0f70061bd9f9efe",
+      "last_updated": "2025-11-09T17:35:03.515556+09:00",
+      "last_checked": "2025-11-09T17:35:03.515556+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "14f06cb6dfd46f15ceb26aa8db4a306606ddda5027aa77774a74c8144835f8c0",
+      "last_updated": "2025-11-09T17:35:05.617517+09:00",
+      "last_checked": "2025-11-09T17:35:05.617517+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "a6dc9aaf23ff46d10312999393d8cca2aca976e120dd38548f0c3d9e2ba314ec",
+      "last_updated": "2025-11-09T17:35:07.583794+09:00",
+      "last_checked": "2025-11-09T17:35:07.583794+09:00"
+    }
+  },
+  "site_manifest_cache": {
+    "sha": "e6a4fdee3d04f661b0eb7d5fd14d82ddbb0451a2",
+    "fetched_at": "2025-11-09T17:34:59.901963+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "timezone": "Asia/Tokyo"
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      }
+    ]
+  }
 }
