@@ -55,9 +55,24 @@
         "/carts",
         "^https://booth\\.pm/$"
       ]
-    }
+    },
+    {
+      "name": "BoothVRChat-avater",
+      "url": "https://booth.pm/ja/items?tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&sort=new",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": ["^https://booth\\.pm/(?:ja/)?items/\\d+$"],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
   ]
 }
+
 
 
 
