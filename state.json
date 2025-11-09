@@ -1,3 +1,118 @@
 {
-  "sites": {}
+  "sites": {
+    "VRChatStatus": {
+      "hash": "3f1e6570e7293ee2efdbf7a0de55930ea59a922ad008142a1574cfb350bae3a3",
+      "last_updated": "2025-11-09T18:14:43.449469+09:00",
+      "last_checked": "2025-11-09T18:14:43.449469+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "f88348390472c9ced69ef1ff0a5ad20591f2392864cfc18fb7ec9ed88646f3b2",
+      "last_updated": "2025-11-09T18:14:45.330581+09:00",
+      "last_checked": "2025-11-09T18:14:45.330581+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "e4f430c6e154868344ea63c4b6596714a48dbf4892897d739f1d1eb275893605",
+      "last_updated": "2025-11-09T18:14:46.928172+09:00",
+      "last_checked": "2025-11-09T18:14:46.928172+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "acd04ff71e4911e965d9cad49691e6e5ab9d2138456dd738d91e98fdb7a8f9df",
+      "last_updated": "2025-11-09T18:14:48.306717+09:00",
+      "last_checked": "2025-11-09T18:14:48.306717+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "b6197491dbe726bd692db3d94d791d140194496fe2bcad6bc69610c9ec5eae1c",
+      "last_updated": "2025-11-09T18:14:50.100655+09:00",
+      "last_checked": "2025-11-09T18:14:50.100655+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "440bbc3bade21e9f2e19d78ac8a37ffd3ad7dda8f4d27e206a3daf02496d6148",
+      "last_updated": "2025-11-09T18:14:51.746347+09:00",
+      "last_checked": "2025-11-09T18:14:51.746347+09:00"
+    }
+  },
+  "site_manifest_cache": {
+    "sha": "34bae114cd43946ac578f76116d9f3dc7dd528c5",
+    "fetched_at": "2025-11-09T18:14:43.449166+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&sort=new",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      }
+    ]
+  }
 }
