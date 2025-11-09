@@ -3,37 +3,37 @@
     "VRChatStatus": {
       "hash": "ad6a577c69bbd4a66f8bba563ea44fce54b7974dc9cfcfc6b0d4fe0bb1250109",
       "last_updated": "2025-11-10T04:02:07.160834+09:00",
-      "last_checked": "2025-11-10T06:14:16.930980+09:00"
+      "last_checked": "2025-11-10T06:15:19.584147+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "64e7b1a86c00c38be60cae85e451e393c006b770e412bbdb774cf3a7defe2a9e",
       "last_updated": "2025-11-10T04:02:20.627578+09:00",
-      "last_checked": "2025-11-10T06:14:17.425216+09:00"
+      "last_checked": "2025-11-10T06:15:19.960524+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "67f50072a63d6493226d3844e23496b0271ecba071114b334c7157aaea34f422",
-      "last_updated": "2025-11-10T06:13:05.870147+09:00",
-      "last_checked": "2025-11-10T06:13:05.870147+09:00"
+      "hash": "3016d719d687d5e2fb6b8ddcd301c0838c128d5827444ffe70652e2400a3c492",
+      "last_updated": "2025-11-10T06:15:20.212376+09:00",
+      "last_checked": "2025-11-10T06:15:20.212376+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "2672b48c59610b0f77d3075707c3aa8aa9649392989c32bace80000278eed2e3",
-      "last_updated": "2025-11-10T06:13:07.525338+09:00",
-      "last_checked": "2025-11-10T06:13:07.525338+09:00"
+      "hash": "9b03cf92d89d9e98733fe281b4daed3a249ba5820a77c7fafe62ba3d31d145fa",
+      "last_updated": "2025-11-10T06:15:22.007013+09:00",
+      "last_checked": "2025-11-10T06:15:22.007013+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "111d03508e9c19019bbce33abd6dcf27e88c4aac3190a7d4dec417966e467611",
-      "last_updated": "2025-11-10T06:13:09.286392+09:00",
-      "last_checked": "2025-11-10T06:13:09.286392+09:00"
+      "hash": "fa11befb0174aeb5971c750e8494c4dfe97ff3c8a0ea6e70b02f6695d489d919",
+      "last_updated": "2025-11-10T06:15:23.771704+09:00",
+      "last_checked": "2025-11-10T06:15:23.771704+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "500a882ceeaa1bd7847a726dedd2a99497d96d4b833de738d89d701af67b9fb7",
-      "last_updated": "2025-11-10T06:13:11.164126+09:00",
-      "last_checked": "2025-11-10T06:13:11.164126+09:00"
+      "hash": "a2410341e24bdb195041ac8b43763a5e7782d6d8da7228357480f88523d49a85",
+      "last_updated": "2025-11-10T06:15:25.356436+09:00",
+      "last_checked": "2025-11-10T06:15:25.356436+09:00"
     }
   },
   "site_manifest_cache": {
-    "sha": "34bae114cd43946ac578f76116d9f3dc7dd528c5",
-    "fetched_at": "2025-11-09T18:14:43.449166+09:00",
+    "sha": "de9f1508e2fe8b69609b7c6f2e43373052ab3183",
+    "fetched_at": "2025-11-10T06:15:19.583926+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -99,7 +99,7 @@
       },
       {
         "name": "BoothVRChat-avater",
-        "url": "https://booth.pm/ja/items?tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&sort=new",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
         "rss_items": 30,
         "interval_sec": 120,
         "include_regex": [
