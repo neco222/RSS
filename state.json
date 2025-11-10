@@ -1,0 +1,118 @@
+{
+  "site_manifest_cache": {
+    "sha": "de9f1508e2fe8b69609b7c6f2e43373052ab3183",
+    "fetched_at": "2025-11-10T13:27:27.881722+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      }
+    ]
+  },
+  "sites": {
+    "VRChatStatus": {
+      "hash": "10fac8b6050672a2a4d35558c466f631550f7f98a9dfd877a3cec139cd08e942",
+      "last_updated": "2025-11-10T13:27:27.882221+09:00",
+      "last_checked": "2025-11-10T13:27:27.882221+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "72db0d1d9a127225b9d4fdb3f0fa16c278895fee61afe8b3871d8b2effa3e4f1",
+      "last_updated": "2025-11-10T13:27:29.587071+09:00",
+      "last_checked": "2025-11-10T13:27:29.587071+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "5d0e471c4b22915df50f9489003742e2f6ab304a4d974c42689a260101a4cda3",
+      "last_updated": "2025-11-10T13:27:31.319945+09:00",
+      "last_checked": "2025-11-10T13:27:31.319945+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "5f76a593af85ae3383681ec701677f53fa21a8c4c8dd26d4c93c2ea58ee05f4c",
+      "last_updated": "2025-11-10T13:27:40.040562+09:00",
+      "last_checked": "2025-11-10T13:27:40.040562+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "e41a8fa717d75bb2f39825df730fb2628f00747aa0ff31f89b0681edce87e466",
+      "last_updated": "2025-11-10T13:27:50.381720+09:00",
+      "last_checked": "2025-11-10T13:27:50.381720+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "7ae9cf3bbf8f8158e50712de0de25d13572630e8365c2ea7412e99160d3d4bba",
+      "last_updated": "2025-11-10T13:27:59.032264+09:00",
+      "last_checked": "2025-11-10T13:27:59.032264+09:00"
+    }
+  }
+}
