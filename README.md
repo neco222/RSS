@@ -1,4 +1,9 @@
 ## 更新ログ
+- 2025-11-10 12:11:59 JST — BoothVRChat-ACC
+- 2025-11-10 12:12:01 JST — BoothVRChat-clothe
+- 2025-11-10 12:12:02 JST — BoothVRChat-world
+- 2025-11-10 12:12:04 JST — BoothVRChat-avater
+
 - 2025-11-10 12:09:45 JST — BoothVRChat-ACC
 - 2025-11-10 12:09:47 JST — BoothVRChat-clothe
 - 2025-11-10 12:09:49 JST — BoothVRChat-world
