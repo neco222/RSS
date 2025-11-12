@@ -79,22 +79,18 @@
       "name": "CampFireVRChat",
       "url": "https://camp-fire.jp/projects/search?word=VRChat",
       "rss_items": 30,
-      "interval_sec": 43200
+      "interval_sec": 43200,
+      "include_regex": [
+        "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+        "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+      ],
+      "exclude_regex": [
+        "^https://camp-fire\\.jp/$",
+        "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+        "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+        "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+        "\\?token="
+      ]
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
