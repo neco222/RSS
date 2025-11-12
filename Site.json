@@ -8,6 +8,11 @@
       "rss_time_tz": "local" 
     },
     {
+      "name": "VRChatStatus-ManualGet",
+      "url": "https://status.vrchat.com/",
+      "interval_sec": 30,
+    },
+    {
       "name": "VRChatStatus.atom",
       "url": "https://status.vrchat.com/history.atom",
       "rss_items": 5,
@@ -72,6 +77,7 @@
     }
   ]
 }
+
 
 
 
