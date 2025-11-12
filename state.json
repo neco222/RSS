@@ -1,0 +1,150 @@
+{
+  "site_manifest_cache": {
+    "sha": "a259ffa6665db8a4c40913e4fa57e80cdff058ea",
+    "fetched_at": "2025-11-12T16:41:36.058225+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus-ManualGet",
+        "url": "https://status.vrchat.com/",
+        "interval_sec": 30
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "CampFireVRChat",
+        "url": "https://camp-fire.jp/projects/search?word=VRChat",
+        "rss_items": 30,
+        "interval_sec": 43200,
+        "include_regex": [
+          "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+        ],
+        "exclude_regex": [
+          "^https://camp-fire\\.jp/$",
+          "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+          "\\?token="
+        ]
+      }
+    ]
+  },
+  "sites": {
+    "VRChatStatus": {
+      "hash": "3bedd3c704608d5ff7fad577a8bdfddcc7a73235eb768bd20b3e78bc0b7d9754",
+      "last_updated": "2025-11-12T16:41:36.058523+09:00",
+      "last_checked": "2025-11-12T16:41:36.058523+09:00"
+    },
+    "VRChatStatus-ManualGet": {
+      "hash": "468503eef91c01227ee468f76c72c1c69a17028641a6242f255b49dc4f4f964f",
+      "last_updated": "2025-11-12T16:41:37.696502+09:00",
+      "last_checked": "2025-11-12T16:41:37.696502+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "14b861cbc5e6dec8ffaaca4b57d7126edc395c65debec574eaa065a0fb0b2bd7",
+      "last_updated": "2025-11-12T16:41:39.144964+09:00",
+      "last_checked": "2025-11-12T16:41:39.144964+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "3f9599f2d88344823e189b291ac13132665a91da974a5dfd3e0a525ad2cdef79",
+      "last_updated": "2025-11-12T16:41:40.687527+09:00",
+      "last_checked": "2025-11-12T16:41:40.687527+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "0514daa6511508afb3cfdc7f9a9ed5939e190419eab00e421ef5a77c00159634",
+      "last_updated": "2025-11-12T16:41:48.949691+09:00",
+      "last_checked": "2025-11-12T16:41:48.949691+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "aeb9154f07b84d2ce5433e984470fa15193e3205b05eaf005f912b3927207f7b",
+      "last_updated": "2025-11-12T16:41:59.214247+09:00",
+      "last_checked": "2025-11-12T16:41:59.214247+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "7a5a30cd7e246afd4434c78db1a778785299f56f5652a57c318475aa26ba453b",
+      "last_updated": "2025-11-12T16:42:07.610562+09:00",
+      "last_checked": "2025-11-12T16:42:07.610562+09:00"
+    },
+    "CampFireVRChat": {
+      "hash": "718ba3783dbad1c445cb915c4b70b3f6a3e2b87602451ed2d88adc42202c13e8",
+      "last_updated": "2025-11-12T16:42:16.012825+09:00",
+      "last_checked": "2025-11-12T16:42:16.012825+09:00"
+    }
+  }
+}
