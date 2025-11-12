@@ -10,7 +10,7 @@
     {
       "name": "VRChatStatus-ManualGet",
       "url": "https://status.vrchat.com/",
-      "interval_sec": 30,
+      "interval_sec": 30
     },
     {
       "name": "VRChatStatus.atom",
@@ -83,6 +83,7 @@
     }
   ]
 }
+
 
 
 
