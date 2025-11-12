@@ -75,8 +75,16 @@
         "^https://booth\\.pm/$"
       ]
     }
+    {
+      "name": "CampFireVRChat",
+      "url": "https://camp-fire.jp/projects/search?word=VRChat",
+      "rss_items": 30,
+      "interval_sec": 43200
+      ]
+    }
   ]
 }
+
 
 
 
