@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a259ffa6665db8a4c40913e4fa57e80cdff058ea",
-    "fetched_at": "2025-11-14T16:46:26.065077+09:00",
+    "fetched_at": "2025-11-15T04:46:45.943968+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -109,17 +109,17 @@
     "VRChatStatus": {
       "hash": "e3679d3a861713a136e05d5d6d7a9e7c60a5f20585f6b9719527b89f248fbe93",
       "last_updated": "2025-11-15T01:49:36.302654+09:00",
-      "last_checked": "2025-11-15T04:45:05.693863+09:00"
+      "last_checked": "2025-11-15T04:46:45.944084+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "e63cfa1bba4eca4549e1abcb7294f4c9b2fe6fbbbde9769d7fdc8385543d5e4b",
-      "last_updated": "2025-11-15T04:45:06.070280+09:00",
-      "last_checked": "2025-11-15T04:45:06.070280+09:00"
+      "hash": "bc894318c29ca91d1e93ca22d74bf6836f22ed23eb2b7dea108075fb631a66bf",
+      "last_updated": "2025-11-15T04:46:46.578987+09:00",
+      "last_checked": "2025-11-15T04:46:46.578987+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "cd160796364caaccf48334427ef43730fe9c7ac67c9504846894b4bdccadf638",
       "last_updated": "2025-11-15T01:49:56.243429+09:00",
-      "last_checked": "2025-11-15T04:45:12.245781+09:00"
+      "last_checked": "2025-11-15T04:46:48.138836+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "5962a3e5fcabb09716c2bc28fe773b4b842bb365b67f5290b69c3b1a58042cdd",
@@ -137,9 +137,9 @@
       "last_checked": "2025-11-15T04:45:31.991873+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "8395affb0f4f5b1c0007eda1bf93bb21bfb7a73ab98a1c3b360fbb16113a6413",
-      "last_updated": "2025-11-15T04:43:55.832616+09:00",
-      "last_checked": "2025-11-15T04:43:55.832616+09:00"
+      "hash": "50e3ca2ff2663be949a86974ec75fd95717dfd75eb78dd1dc0c847398cfc9578",
+      "last_updated": "2025-11-15T04:46:48.388295+09:00",
+      "last_checked": "2025-11-15T04:46:48.388295+09:00"
     },
     "CampFireVRChat": {
       "hash": "8c63a80143e4172ddc9bff95db0b515b06877567696fbda2f3e8e30b2a8f7543",
