@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a259ffa6665db8a4c40913e4fa57e80cdff058ea",
-    "fetched_at": "2025-11-28T05:06:37.260013+09:00",
+    "fetched_at": "2025-11-28T17:07:06.182948+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -109,17 +109,17 @@
     "VRChatStatus": {
       "hash": "47b8ab70aff926205dcc8c30e01abc3e17963297c927df032da3b825d21fabea",
       "last_updated": "2025-11-28T13:52:15.268113+09:00",
-      "last_checked": "2025-11-28T17:05:29.362877+09:00"
+      "last_checked": "2025-11-28T17:07:06.183097+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "e538c3ef89da744390bcff5db82c84175f16643d1560d3b662158e3b781bd861",
-      "last_updated": "2025-11-28T17:05:29.875676+09:00",
-      "last_checked": "2025-11-28T17:05:29.875676+09:00"
+      "hash": "39f3be9842011c20e78ceb5ba3b4f86cea6895e378d87d47844a960fac4220ac",
+      "last_updated": "2025-11-28T17:07:06.556112+09:00",
+      "last_checked": "2025-11-28T17:07:06.556112+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "f61b7c925a712069d92443947d6f5aef0fd88eb9027031b66f238f4cd266b683",
       "last_updated": "2025-11-28T13:38:00.304643+09:00",
-      "last_checked": "2025-11-28T17:05:30.998034+09:00"
+      "last_checked": "2025-11-28T17:07:08.064168+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "bf821e1c2f437e5bd273fac987caa0944c2c67fd7e9630981cacedd5b23d703a",
@@ -137,9 +137,9 @@
       "last_checked": "2025-11-28T17:05:52.502206+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "1437657b9069151e1d286cecb25ca051a2b0b383a2ba48cd5ba0597614751c35",
-      "last_updated": "2025-11-28T17:04:18.702021+09:00",
-      "last_checked": "2025-11-28T17:04:18.702021+09:00"
+      "hash": "19a41e9a7a3fa0dec28ae23ff792e9ef9dbb8b2c4933a1e43eddb6c0a0d987e1",
+      "last_updated": "2025-11-28T17:07:08.696127+09:00",
+      "last_checked": "2025-11-28T17:07:08.696127+09:00"
     },
     "CampFireVRChat": {
       "hash": "b556661a4c0d3391950bab0666c059d1107a08791b6aa902a61f41528bd52a94",
