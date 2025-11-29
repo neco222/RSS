@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 29 Nov 2025 08:43:26 +0000</pubDate>
+    <pubDate>Sat, 29 Nov 2025 08:49:12 +0000</pubDate>
     <item>
       <title>USW Outage</title>
       <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an interruption to realtime networking services to the US West region. Please move to another region for your instance if you have been affected.&lt;/p&gt;      </description>
-      <pubDate>Sat, 29 Nov 2025 17:43:26 +0900</pubDate>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our realtime networking provider has recovered from a momentary loss in service. You should be able to reconnect to VRChat. We are continuing to monitor for further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an interruption to realtime networking services to the US West region. Please move to another region for your instance if you have been affected.&lt;/p&gt;      </description>
+      <pubDate>Sat, 29 Nov 2025 17:49:12 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/5s2vqqr5bv5f</link>
       <guid>https://status.vrchat.com/incidents/5s2vqqr5bv5f</guid>
     </item>
