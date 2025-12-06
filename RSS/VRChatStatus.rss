@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 06 Dec 2025 00:31:10 +0000</pubDate>
+    <pubDate>Sat, 06 Dec 2025 01:31:02 +0000</pubDate>
+    <item>
+      <title>Network Connectivity Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;01:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are monitoring network connectivity issues with our servers. Upstream providers have been contacted.&lt;/p&gt;      </description>
+      <pubDate>Sat, 06 Dec 2025 10:31:02 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/gfsm3s4jyx39</link>
+      <guid>https://status.vrchat.com/incidents/gfsm3s4jyx39</guid>
+    </item>
     <item>
       <title>USW Outage</title>
       <description>
@@ -200,15 +208,6 @@
       <pubDate>Fri, 25 Jul 2025 04:03:56 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/sn30bch8hnj2</link>
       <guid>https://status.vrchat.com/incidents/sn30bch8hnj2</guid>
-    </item>
-    <item>
-      <title>API Upgrades</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - During this time, our services will be undergoing maintenance. While we do not expect any downtime, users might notice slightly elevated API latency and random errors.&lt;/p&gt;      </description>
-      <pubDate>Wed, 23 Jul 2025 09:00:21 +0900</pubDate>
-      <maintenanceEndDate>Wed, 23 Jul 2025 00:00:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/zj8xcj9rlmgj</link>
-      <guid>https://status.vrchat.com/incidents/zj8xcj9rlmgj</guid>
     </item>
   </channel>
 </rss>
