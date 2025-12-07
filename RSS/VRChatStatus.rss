@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 07 Dec 2025 14:41:23 +0000</pubDate>
+    <pubDate>Sun, 07 Dec 2025 15:40:54 +0000</pubDate>
+    <item>
+      <title>Network Connectivity Issues: US East</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;15:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are monitoring network connectivity issues with our servers for US-East. Upstream providers have been contacted.&lt;/p&gt;      </description>
+      <pubDate>Mon, 08 Dec 2025 00:40:54 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/4dc69t5h8jzv</link>
+      <guid>https://status.vrchat.com/incidents/4dc69t5h8jzv</guid>
+    </item>
     <item>
       <title>Network Connectivity Issues</title>
       <description>
@@ -200,14 +208,6 @@
       <pubDate>Sat, 26 Jul 2025 02:10:29 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/k173g6sdd11h</link>
       <guid>https://status.vrchat.com/incidents/k173g6sdd11h</guid>
-    </item>
-    <item>
-      <title>Realtime Networking Performance Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are aware of issues related to joining existing instances that may cause you to be unable to see other users. For a better experience, please create new instances to meet up with other users.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware of realtime networking issues caused by an upstream provider. Users might see an increased rate of timeouts and disconnects. Our upstream provider is aware and investigating.&lt;/p&gt;      </description>
-      <pubDate>Fri, 25 Jul 2025 04:03:56 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/sn30bch8hnj2</link>
-      <guid>https://status.vrchat.com/incidents/sn30bch8hnj2</guid>
     </item>
   </channel>
 </rss>
