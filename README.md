@@ -1,4 +1,7 @@
 ## 更新ログ
+- 2025-12-08 17:24:51 JST — VRChatStatus-ManualGet
+- 2025-12-08 17:25:00 JST — CampFireVRChat
+
 - 2025-12-08 17:22:29 JST — VRChatStatus
 - 2025-12-08 17:22:49 JST — VRChatStatus-ManualGet
 - 2025-12-08 17:22:50 JST — VRChatStatus.atom
