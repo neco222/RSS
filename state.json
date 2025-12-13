@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "3b3aef3e117aa7f5c208a816b2cc5e7a19c3790b02abfbb3397eed34e32e4eb8",
       "last_updated": "2025-12-13T19:10:35.134093+09:00",
-      "last_checked": "2025-12-13T19:55:50.283749+09:00"
+      "last_checked": "2025-12-13T19:56:35.215685+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "9e86b428d07c00abec51134b94d43d46f511dcc5463c5a58535e965f3e9b0d8e",
-      "last_updated": "2025-12-13T19:55:50.879075+09:00",
-      "last_checked": "2025-12-13T19:55:50.879075+09:00"
+      "hash": "d7d21f88f1a6431405628f260989811e27bb17b3c0c53f0c7bbf9c12e3979de8",
+      "last_updated": "2025-12-13T19:56:35.465357+09:00",
+      "last_checked": "2025-12-13T19:56:35.465357+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "d217f3f10656e3592a6d95de4081364510b3870005b5a52ec941e5131d1cb8f5",
       "last_updated": "2025-12-13T19:10:38.492487+09:00",
-      "last_checked": "2025-12-13T19:55:52.239043+09:00"
+      "last_checked": "2025-12-13T19:56:36.891302+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "8308978c470fb54716ae0f60d7b5e1c9383b4c4ef36e6f6f988c53846f1f5273",
@@ -160,6 +160,21 @@
       "hash": "e4b5026854bbe55a1242d74c651aa9e12be8e48871df061fbb006c22d3ea8b65",
       "last_updated": "2025-12-13T19:11:15.768957+09:00",
       "last_checked": "2025-12-13T19:11:15.768957+09:00"
+    },
+    "LRCHub-PR": {
+      "archive": {
+        "https://github.com/LRCHub/7QDosulSmBw/pull/2": {
+          "title": "Change SyncLocked from false to true",
+          "link": "https://github.com/LRCHub/7QDosulSmBw/pull/2",
+          "guid": "https://github.com/LRCHub/7QDosulSmBw/pull/2",
+          "pubDate": "Sat, 13 Dec 2025 17:25:30 +0900",
+          "description": "author: neco222 / LRCHub/7QDosulSmBw#2",
+          "_created_at": "2025-12-13T08:25:30Z"
+        }
+      },
+      "last_created_at": "2025-12-13T08:25:30Z",
+      "last_checked": "2025-12-13T19:56:37.406490+09:00",
+      "last_updated": "2025-12-13T19:56:37.406490+09:00"
     }
   }
 }
