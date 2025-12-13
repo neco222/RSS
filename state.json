@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "3b3aef3e117aa7f5c208a816b2cc5e7a19c3790b02abfbb3397eed34e32e4eb8",
       "last_updated": "2025-12-13T19:10:35.134093+09:00",
-      "last_checked": "2025-12-13T20:51:32.017461+09:00"
+      "last_checked": "2025-12-13T20:53:12.113734+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "0c0cbc02b2a41313f87d219a7a00bea796d6f33664fe1cd24788b085a40143e7",
-      "last_updated": "2025-12-13T20:50:27.324901+09:00",
-      "last_checked": "2025-12-13T20:51:32.612398+09:00"
+      "hash": "3a57eadceae9ede4464907c52fc70b4912c79441f92d624d5c5fe70ca6835acf",
+      "last_updated": "2025-12-13T20:53:12.803691+09:00",
+      "last_checked": "2025-12-13T20:53:12.803691+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "d217f3f10656e3592a6d95de4081364510b3870005b5a52ec941e5131d1cb8f5",
       "last_updated": "2025-12-13T19:10:38.492487+09:00",
-      "last_checked": "2025-12-13T20:51:33.101616+09:00"
+      "last_checked": "2025-12-13T20:53:14.420410+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "c81c1011c1cad7c1eb903b251dd07c8de7ee0b625ff6d90dfb3ef6b99fcdf065",
@@ -178,11 +178,19 @@
           "pubDate": "Sat, 13 Dec 2025 20:17:21 +0900",
           "description": "author: neco222 / LRCHub/rgxC1N3IQEk#1",
           "_created_at": "2025-12-13T11:17:21Z"
+        },
+        "https://github.com/LRCHub/M4-XU0a2hf0/pull/1": {
+          "title": "Update LyricsConfig.json",
+          "link": "https://github.com/LRCHub/M4-XU0a2hf0/pull/1",
+          "guid": "https://github.com/LRCHub/M4-XU0a2hf0/pull/1",
+          "pubDate": "Sat, 13 Dec 2025 20:51:41 +0900",
+          "description": "author: neco222 / LRCHub/M4-XU0a2hf0#1",
+          "_created_at": "2025-12-13T11:51:41Z"
         }
       },
-      "last_created_at": "2025-12-13T11:17:21Z",
-      "last_checked": "2025-12-13T20:47:39.319175+09:00",
-      "last_updated": "2025-12-13T20:19:20.751996+09:00"
+      "last_created_at": "2025-12-13T11:51:41Z",
+      "last_checked": "2025-12-13T20:53:14.891427+09:00",
+      "last_updated": "2025-12-13T20:53:14.891427+09:00"
     }
   }
 }
