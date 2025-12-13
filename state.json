@@ -1,0 +1,171 @@
+{
+  "site_manifest_cache": {
+    "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
+    "fetched_at": "2025-12-13T19:10:35.133686+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus-ManualGet",
+        "url": "https://status.vrchat.com/",
+        "interval_sec": 30
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "CampFireVRChat",
+        "url": "https://camp-fire.jp/projects/search?word=VRChat",
+        "rss_items": 30,
+        "interval_sec": 43200,
+        "include_regex": [
+          "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+        ],
+        "exclude_regex": [
+          "^https://camp-fire\\.jp/$",
+          "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+          "\\?token="
+        ]
+      },
+      {
+        "name": "LRCHub-PR",
+        "url": "https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&sort=created&order=desc&per_page=50",
+        "rss_items": 50,
+        "interval_sec": 300,
+        "user_agent": "SiteRSSBot (LRCHub PR monitor)",
+        "include_regex": [
+          "^https://github\\.com/LRCHub/[^/]+/pull/\\d+$"
+        ],
+        "exclude_regex": [
+          "^https://api\\.github\\.com/"
+        ],
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      }
+    ]
+  },
+  "sites": {
+    "VRChatStatus": {
+      "hash": "3b3aef3e117aa7f5c208a816b2cc5e7a19c3790b02abfbb3397eed34e32e4eb8",
+      "last_updated": "2025-12-13T19:10:35.134093+09:00",
+      "last_checked": "2025-12-13T19:10:35.134093+09:00"
+    },
+    "VRChatStatus-ManualGet": {
+      "hash": "440a842829a282cd8c65984bf994c242f22da0ba8d5d480d114b8f5e1e0a52a8",
+      "last_updated": "2025-12-13T19:10:37.123173+09:00",
+      "last_checked": "2025-12-13T19:10:37.123173+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "d217f3f10656e3592a6d95de4081364510b3870005b5a52ec941e5131d1cb8f5",
+      "last_updated": "2025-12-13T19:10:38.492487+09:00",
+      "last_checked": "2025-12-13T19:10:38.492487+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "5446c276891d530a0b51dd1ac9e95c67683e8c084a3016e7699a8b1e6059689e",
+      "last_updated": "2025-12-13T19:10:40.152981+09:00",
+      "last_checked": "2025-12-13T19:10:40.152981+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "3d63364df922b625bb74a686d8543528848130d3b0a1f9534a1de8934fbd203b",
+      "last_updated": "2025-12-13T19:10:47.854132+09:00",
+      "last_checked": "2025-12-13T19:10:47.854132+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "1df0b5ed616c446649691fd01c98c337e683ffe5dc6af611f63b3e5399607bdb",
+      "last_updated": "2025-12-13T19:10:58.532309+09:00",
+      "last_checked": "2025-12-13T19:10:58.532309+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "16504588ed3e8e9ea17b8dcfb756dd40efe909837f1e243af8f8406a708cb742",
+      "last_updated": "2025-12-13T19:11:07.244246+09:00",
+      "last_checked": "2025-12-13T19:11:07.244246+09:00"
+    },
+    "CampFireVRChat": {
+      "hash": "e4b5026854bbe55a1242d74c651aa9e12be8e48871df061fbb006c22d3ea8b65",
+      "last_updated": "2025-12-13T19:11:15.768957+09:00",
+      "last_checked": "2025-12-13T19:11:15.768957+09:00"
+    },
+    "LRCHub-PR": {
+      "last_created_at": "2025-12-13T08:25:30Z",
+      "hash": "9aeda3fedf22d1090387700114b59e03aa386c8eb2e74783b84c31cbd6eb3427",
+      "last_checked": "2025-12-13T19:11:17.338479+09:00",
+      "last_updated": "2025-12-13T19:11:17.338479+09:00"
+    }
+  }
+}
