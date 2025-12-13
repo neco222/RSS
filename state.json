@@ -1,0 +1,170 @@
+{
+  "site_manifest_cache": {
+    "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
+    "fetched_at": "2025-12-13T19:03:08.042027+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus-ManualGet",
+        "url": "https://status.vrchat.com/",
+        "interval_sec": 30
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "CampFireVRChat",
+        "url": "https://camp-fire.jp/projects/search?word=VRChat",
+        "rss_items": 30,
+        "interval_sec": 43200,
+        "include_regex": [
+          "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+        ],
+        "exclude_regex": [
+          "^https://camp-fire\\.jp/$",
+          "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+          "\\?token="
+        ]
+      },
+      {
+        "name": "LRCHub-PR",
+        "url": "https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&sort=created&order=desc&per_page=50",
+        "rss_items": 50,
+        "interval_sec": 300,
+        "user_agent": "SiteRSSBot (LRCHub PR monitor)",
+        "include_regex": [
+          "^https://github\\.com/LRCHub/[^/]+/pull/\\d+$"
+        ],
+        "exclude_regex": [
+          "^https://api\\.github\\.com/"
+        ],
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      }
+    ]
+  },
+  "sites": {
+    "VRChatStatus": {
+      "hash": "3b3aef3e117aa7f5c208a816b2cc5e7a19c3790b02abfbb3397eed34e32e4eb8",
+      "last_updated": "2025-12-13T19:03:08.042349+09:00",
+      "last_checked": "2025-12-13T19:03:08.042349+09:00"
+    },
+    "VRChatStatus-ManualGet": {
+      "hash": "8b2a75a01a66218b9ac8cbfdf76d4db6db44b921ec245daae0516b8bbac2e58f",
+      "last_updated": "2025-12-13T19:03:10.247395+09:00",
+      "last_checked": "2025-12-13T19:03:10.247395+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "d217f3f10656e3592a6d95de4081364510b3870005b5a52ec941e5131d1cb8f5",
+      "last_updated": "2025-12-13T19:03:11.510952+09:00",
+      "last_checked": "2025-12-13T19:03:11.510952+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "d7c188364afb23f3ee0697781e7229d9bd1de31af84d3869f7dfa39822d90519",
+      "last_updated": "2025-12-13T19:03:13.253152+09:00",
+      "last_checked": "2025-12-13T19:03:13.253152+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "251eb7f34bf1230c15f10db3bb5bfd25c8ea8ac3dddb47d7c3d06f2f5cdcc8bf",
+      "last_updated": "2025-12-13T19:03:20.817280+09:00",
+      "last_checked": "2025-12-13T19:03:20.817280+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "3009448d0c3f7be93d340326bcd002515629f03e03d9d6770551387a715dc4dd",
+      "last_updated": "2025-12-13T19:03:30.927841+09:00",
+      "last_checked": "2025-12-13T19:03:30.927841+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "4010f6fe7b33e8ed55448328e11e575f856622c089d3b9267358d25f7f58a8cc",
+      "last_updated": "2025-12-13T19:03:39.484137+09:00",
+      "last_checked": "2025-12-13T19:03:39.484137+09:00"
+    },
+    "CampFireVRChat": {
+      "hash": "e48db41cf3a8042037e2ee8d2fee3ec997acda948a1197bd9d61733d777a476d",
+      "last_updated": "2025-12-13T19:03:47.945190+09:00",
+      "last_checked": "2025-12-13T19:03:47.945190+09:00"
+    },
+    "LRCHub-PR": {
+      "hash": "9aeda3fedf22d1090387700114b59e03aa386c8eb2e74783b84c31cbd6eb3427",
+      "last_updated": "2025-12-13T19:03:49.674511+09:00",
+      "last_checked": "2025-12-13T19:03:49.674511+09:00"
+    }
+  }
+}
