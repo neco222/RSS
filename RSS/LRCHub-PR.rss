@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LRCHub-PR</title>
+    <link>https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&amp;sort=created&amp;order=desc&amp;per_page=50</link>
+    <description>Auto-generated feed</description>
+    <lastBuildDate>Sat, 13 Dec 2025 19:56:37 +0900</lastBuildDate>
+    <generator>SiteRSSBot</generator>
+    <item>
+      <title>Change SyncLocked from false to true</title>
+      <link>https://github.com/LRCHub/7QDosulSmBw/pull/2</link>
+      <guid isPermaLink="true">https://github.com/LRCHub/7QDosulSmBw/pull/2</guid>
+      <pubDate>Sat, 13 Dec 2025 17:25:30 +0900</pubDate>
+      <description>author: neco222 / LRCHub/7QDosulSmBw#2</description>
+    </item>
+  </channel>
+</rss>
