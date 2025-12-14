@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "68a65d6664e79e6d53d53948b3c7e04a461973e9f955543edb729a92f77feeb8",
       "last_updated": "2025-12-14T14:32:05.714094+09:00",
-      "last_checked": "2025-12-14T16:32:36.485943+09:00"
+      "last_checked": "2025-12-14T16:34:18.765160+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "8f29ecf759fc2073732084f2b79512cbfe369b733de139f0e7122980dfead789",
-      "last_updated": "2025-12-14T16:32:36.883579+09:00",
-      "last_checked": "2025-12-14T16:32:36.883579+09:00"
+      "hash": "12cfb0c8d47b37dcf4d74a1111d43a3b4a006648ca051e4992820f3f815d8eb9",
+      "last_updated": "2025-12-14T16:34:19.382175+09:00",
+      "last_checked": "2025-12-14T16:34:19.382175+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "c1cbc6aac7de016c8d5aae3c9571fd5dd38ab45956ab9aed0bf33ba14092540c",
       "last_updated": "2025-12-14T14:32:23.884852+09:00",
-      "last_checked": "2025-12-14T16:32:38.252807+09:00"
+      "last_checked": "2025-12-14T16:34:20.823028+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "cf5b25ae2a19667a907b071fa6e325f60b9acc4b3603cb815a31eb2bb8c5f098",
@@ -202,11 +202,19 @@
           "pubDate": "Sun, 14 Dec 2025 16:05:50 +0900",
           "description": "author: AmoAmo0000 / LRCHub/tIP0Qezl0lg#3",
           "_created_at": "2025-12-14T07:05:50Z"
+        },
+        "https://github.com/LRCHub/tIP0Qezl0lg/pull/4": {
+          "title": "Update README.md",
+          "link": "https://github.com/LRCHub/tIP0Qezl0lg/pull/4",
+          "guid": "https://github.com/LRCHub/tIP0Qezl0lg/pull/4",
+          "pubDate": "Sun, 14 Dec 2025 16:33:53 +0900",
+          "description": "author: AmoAmo0000 / LRCHub/tIP0Qezl0lg#4",
+          "_created_at": "2025-12-14T07:33:53Z"
         }
       },
-      "last_created_at": "2025-12-13T11:17:21Z",
-      "last_checked": "2025-12-14T16:28:44.009317+09:00",
-      "last_updated": "2025-12-14T16:06:23.506031+09:00"
+      "last_created_at": "2025-12-14T07:33:53Z",
+      "last_checked": "2025-12-14T16:34:21.167951+09:00",
+      "last_updated": "2025-12-14T16:34:21.167951+09:00"
     }
   }
 }
