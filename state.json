@@ -124,37 +124,37 @@
     "VRChatStatus": {
       "hash": "d594bffa2fa0fd0f7ef1cf711f6c4f9fb81577f203940540596efd8135774daa",
       "last_updated": "2025-12-19T04:23:20.805351+09:00",
-      "last_checked": "2025-12-19T11:41:10.982387+09:00"
+      "last_checked": "2025-12-19T11:42:16.281092+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "731bcdc9028768fd42820b93fb669451a417497632d5a2a8827283c9564f57a5",
-      "last_updated": "2025-12-19T11:41:11.354913+09:00",
-      "last_checked": "2025-12-19T11:41:11.354913+09:00"
+      "hash": "5ed38bddc902b7ec17240f3596855a92aeb81488460db50dcd4494ae23683970",
+      "last_updated": "2025-12-19T11:42:16.623414+09:00",
+      "last_checked": "2025-12-19T11:42:16.623414+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "563ca52a238987ad9adf99c9860f123ac5296f594fb3c045cd10fa4548f4c6cc",
       "last_updated": "2025-12-19T04:23:44.480761+09:00",
-      "last_checked": "2025-12-19T11:41:12.690527+09:00"
+      "last_checked": "2025-12-19T11:42:18.016278+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "ac396a6e124ceb0ffe239a9980fe16471fc7dd96dd6ede93b9c2dd14f374eef6",
-      "last_updated": "2025-12-19T11:39:33.195786+09:00",
-      "last_checked": "2025-12-19T11:39:33.195786+09:00"
+      "hash": "50eaf0b2aba83720a5d5e97e452f191a35188f54f2d8aaecb0800ad944e842f6",
+      "last_updated": "2025-12-19T11:42:20.596704+09:00",
+      "last_checked": "2025-12-19T11:42:20.596704+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "d47cb79472a48f5db5db37c8912604a82f7f403c84d7db84aa284439880168a1",
-      "last_updated": "2025-12-19T11:39:41.848792+09:00",
-      "last_checked": "2025-12-19T11:39:41.848792+09:00"
+      "hash": "888e26901a95882baf706d7d38dbe43650bec4f0460a72bdddba23953ee4eb24",
+      "last_updated": "2025-12-19T11:42:28.171745+09:00",
+      "last_checked": "2025-12-19T11:42:28.171745+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "c078b3c322e6b56af3c0e6cb9f9076ba4420bcde68d14808428ea8554ae16543",
-      "last_updated": "2025-12-19T11:39:51.202975+09:00",
-      "last_checked": "2025-12-19T11:39:51.202975+09:00"
+      "hash": "827afc757f5d15a88adfcbf1933648fe04a3ab9532855f0d53ba35f3ad8ea4ff",
+      "last_updated": "2025-12-19T11:42:38.464489+09:00",
+      "last_checked": "2025-12-19T11:42:38.464489+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "7470e3bef4cc812b629d03f226f2127194a076d917277d30c63e6ff50dacf80e",
-      "last_updated": "2025-12-19T11:39:59.957973+09:00",
-      "last_checked": "2025-12-19T11:39:59.957973+09:00"
+      "hash": "f01e33dd282bbce2248cf8966ce8900294ba9da67be3fc17669100ca0164034b",
+      "last_updated": "2025-12-19T11:42:46.823965+09:00",
+      "last_checked": "2025-12-19T11:42:46.823965+09:00"
     },
     "CampFireVRChat": {
       "hash": "839ac7a5b16295a55cd87a78576fd7e91f0d2362c76e2e737cb6a4d58f58bb36",
@@ -218,11 +218,19 @@
           "pubDate": "Mon, 15 Dec 2025 19:27:48 +0900",
           "description": "author: aigao0168 / LRCHub/Acqfffmlp_E#1",
           "_created_at": "2025-12-15T10:27:48Z"
+        },
+        "https://github.com/LRCHub/_jTYrUhm3vw/pull/1": {
+          "title": "Revise lyrics with updated timestamps",
+          "link": "https://github.com/LRCHub/_jTYrUhm3vw/pull/1",
+          "guid": "https://github.com/LRCHub/_jTYrUhm3vw/pull/1",
+          "pubDate": "Fri, 19 Dec 2025 11:41:49 +0900",
+          "description": "author: ogimachichannel / LRCHub/_jTYrUhm3vw#1",
+          "_created_at": "2025-12-19T02:41:49Z"
         }
       },
-      "last_created_at": "2025-12-13T11:17:21Z",
-      "last_checked": "2025-12-19T11:37:23.791614+09:00",
-      "last_updated": "2025-12-15T19:29:17.887201+09:00"
+      "last_created_at": "2025-12-19T02:41:49Z",
+      "last_checked": "2025-12-19T11:42:54.893617+09:00",
+      "last_updated": "2025-12-19T11:42:54.893617+09:00"
     }
   }
 }
