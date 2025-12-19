@@ -124,37 +124,37 @@
     "VRChatStatus": {
       "hash": "7c2676f2aab64170a21cce2d896e39410528a5d95307304e7ba7b782d84181fa",
       "last_updated": "2025-12-19T16:11:33.382664+09:00",
-      "last_checked": "2025-12-19T17:56:28.943639+09:00"
+      "last_checked": "2025-12-19T17:57:31.363311+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "0cf4796157736358f908ceedf2a69c5ff44df5652c0b0cdbf7ed3dbe1235aad0",
-      "last_updated": "2025-12-19T17:54:50.036146+09:00",
-      "last_checked": "2025-12-19T17:56:29.520591+09:00"
+      "hash": "702a290004b50f65f5d5be6424b9d47c1964e355a25af8d2d1559aeabb65ed54",
+      "last_updated": "2025-12-19T17:57:31.682698+09:00",
+      "last_checked": "2025-12-19T17:57:31.682698+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "de64dad3f660617f47496e93b8c91f7493a508a20074ebe18f36a595f161a677",
       "last_updated": "2025-12-19T16:12:19.154577+09:00",
-      "last_checked": "2025-12-19T17:56:29.778909+09:00"
+      "last_checked": "2025-12-19T17:57:32.871503+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "9e61e5a57bd00b4e42730fa70dae7242a4afe41adf49c8e73bd95d7ed13684f6",
-      "last_updated": "2025-12-19T17:54:51.667872+09:00",
-      "last_checked": "2025-12-19T17:54:51.667872+09:00"
+      "hash": "c8dd0c4a40c3cdd51a1d6f62b74313072d0ab1ad4825f453dc72f089044cf83d",
+      "last_updated": "2025-12-19T17:57:33.124452+09:00",
+      "last_checked": "2025-12-19T17:57:33.124452+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "27b6311da9a382da3c7d4b61c8c9595e22bcbc33893b112989b3bf87c1bd7bf8",
-      "last_updated": "2025-12-19T17:54:59.583632+09:00",
-      "last_checked": "2025-12-19T17:54:59.583632+09:00"
+      "hash": "579fa4169f268c1dc7f5bf34cc8e0993251b0ed31e322f1f1ef451c889504cb1",
+      "last_updated": "2025-12-19T17:57:41.730652+09:00",
+      "last_checked": "2025-12-19T17:57:41.730652+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "38cb832af0ca5ce41b7fee4fd4c41e9259d8016eb3e34a2dc2f367a66a99f72d",
-      "last_updated": "2025-12-19T17:55:09.998441+09:00",
-      "last_checked": "2025-12-19T17:55:09.998441+09:00"
+      "hash": "ea78f82dcbf1ab33e811faa5c358db6199f84987643619a7439a34805de389d1",
+      "last_updated": "2025-12-19T17:57:51.332103+09:00",
+      "last_checked": "2025-12-19T17:57:51.332103+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "1dad25f4f9f2f9cd27ba05680476a5488b638a9caeba85bffefab879f090c8e9",
-      "last_updated": "2025-12-19T17:55:18.279472+09:00",
-      "last_checked": "2025-12-19T17:55:18.279472+09:00"
+      "hash": "863a6a202a37c096fc047602877d6dea93639540b29124639eb75dd0004800f7",
+      "last_updated": "2025-12-19T17:58:01.021458+09:00",
+      "last_checked": "2025-12-19T17:58:01.021458+09:00"
     },
     "CampFireVRChat": {
       "hash": "839ac7a5b16295a55cd87a78576fd7e91f0d2362c76e2e737cb6a4d58f58bb36",
@@ -226,11 +226,19 @@
           "pubDate": "Fri, 19 Dec 2025 11:41:49 +0900",
           "description": "author: ogimachichannel / LRCHub/_jTYrUhm3vw#1",
           "_created_at": "2025-12-19T02:41:49Z"
+        },
+        "https://github.com/LRCHub/75hkKzWnOTc/pull/1": {
+          "title": "歌詞のタイミング間違い修正",
+          "link": "https://github.com/LRCHub/75hkKzWnOTc/pull/1",
+          "guid": "https://github.com/LRCHub/75hkKzWnOTc/pull/1",
+          "pubDate": "Fri, 19 Dec 2025 17:54:33 +0900",
+          "description": "author: neco222 / LRCHub/75hkKzWnOTc#1",
+          "_created_at": "2025-12-19T08:54:33Z"
         }
       },
-      "last_created_at": "2025-12-13T11:17:21Z",
-      "last_checked": "2025-12-19T17:52:40.941443+09:00",
-      "last_updated": "2025-12-19T11:42:54.893617+09:00"
+      "last_created_at": "2025-12-19T08:54:33Z",
+      "last_checked": "2025-12-19T17:58:09.138422+09:00",
+      "last_updated": "2025-12-19T17:58:09.138422+09:00"
     }
   }
 }
