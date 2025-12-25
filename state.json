@@ -1,3 +1,216 @@
 {
-  "sites": {}
+  "sites": {
+    "VRChatStatus": {
+      "hash": "80f104dfb57ad71b24e4ab10dbbe1caf62a64427482f84beb0272e8e79290c1d",
+      "last_updated": "2025-12-25T22:24:23.164678+09:00",
+      "last_checked": "2025-12-25T22:24:23.164678+09:00"
+    },
+    "VRChatStatus-ManualGet": {
+      "hash": "bb1893231872261c32fc9ae527aa68b640caf30ea74c2a6fd2ebad7a3ef51a12",
+      "last_updated": "2025-12-25T22:24:25.174466+09:00",
+      "last_checked": "2025-12-25T22:24:25.174466+09:00"
+    },
+    "VRChatStatus.atom": {
+      "hash": "98f01de4153403cf030faf3010f28bcb558ef6c7a8a4cdef5bdb8190b3b8e555",
+      "last_updated": "2025-12-25T22:24:26.347414+09:00",
+      "last_checked": "2025-12-25T22:24:26.347414+09:00"
+    },
+    "BoothVRChat-ACC": {
+      "hash": "3d12b841b62d27679e82ac00cc428d5ef1fb558c416fd6871d8b9076cae78122",
+      "last_updated": "2025-12-25T22:24:29.454004+09:00",
+      "last_checked": "2025-12-25T22:24:29.454004+09:00"
+    },
+    "BoothVRChat-clothe": {
+      "hash": "1de6b14fe9902ab40fec5ff22b32791f7f154b6570a41271bcf8577d83ddfa70",
+      "last_updated": "2025-12-25T22:24:38.559424+09:00",
+      "last_checked": "2025-12-25T22:24:38.559424+09:00"
+    },
+    "BoothVRChat-world": {
+      "hash": "db2772d41d9aaefea22dd9dd8a6bf912e4186479b673a2fb4ae16983a35ddc83",
+      "last_updated": "2025-12-25T22:24:49.160579+09:00",
+      "last_checked": "2025-12-25T22:24:49.160579+09:00"
+    },
+    "BoothVRChat-avater": {
+      "hash": "021e4ae88fb6edb731bbdab28230af576fcc1c442fa34410263f647c4ec98687",
+      "last_updated": "2025-12-25T22:24:58.016187+09:00",
+      "last_checked": "2025-12-25T22:24:58.016187+09:00"
+    },
+    "CampFireVRChat": {
+      "hash": "d1a2fd4fde389991d90342f67d997e811ef43a4a22314e2ba38314ed1fd7e762",
+      "last_updated": "2025-12-25T22:25:06.084737+09:00",
+      "last_checked": "2025-12-25T22:25:06.084737+09:00"
+    },
+    "LRCHub-PR": {
+      "archive": {
+        "https://github.com/LRCHub/OP20UNkGV78/pull/1": {
+          "title": "Update readme.md",
+          "link": "https://github.com/LRCHub/OP20UNkGV78/pull/1",
+          "guid": "https://github.com/LRCHub/OP20UNkGV78/pull/1",
+          "pubDate": "Thu, 25 Dec 2025 00:55:16 +0900",
+          "description": "author: hakumai22 / LRCHub/OP20UNkGV78#1",
+          "_created_at": "2025-12-24T15:55:16Z"
+        },
+        "https://github.com/LRCHub/75hkKzWnOTc/pull/1": {
+          "title": "歌詞のタイミング間違い修正",
+          "link": "https://github.com/LRCHub/75hkKzWnOTc/pull/1",
+          "guid": "https://github.com/LRCHub/75hkKzWnOTc/pull/1",
+          "pubDate": "Fri, 19 Dec 2025 17:54:33 +0900",
+          "description": "author: neco222 / LRCHub/75hkKzWnOTc#1",
+          "_created_at": "2025-12-19T08:54:33Z"
+        },
+        "https://github.com/LRCHub/rgxC1N3IQEk/pull/1": {
+          "title": "Update LyricsConfig.json",
+          "link": "https://github.com/LRCHub/rgxC1N3IQEk/pull/1",
+          "guid": "https://github.com/LRCHub/rgxC1N3IQEk/pull/1",
+          "pubDate": "Sat, 13 Dec 2025 20:17:21 +0900",
+          "description": "author: neco222 / LRCHub/rgxC1N3IQEk#1",
+          "_created_at": "2025-12-13T11:17:21Z"
+        },
+        "https://github.com/LRCHub/7QDosulSmBw/pull/2": {
+          "title": "Change SyncLocked from false to true",
+          "link": "https://github.com/LRCHub/7QDosulSmBw/pull/2",
+          "guid": "https://github.com/LRCHub/7QDosulSmBw/pull/2",
+          "pubDate": "Sat, 13 Dec 2025 17:25:30 +0900",
+          "description": "author: neco222 / LRCHub/7QDosulSmBw#2",
+          "_created_at": "2025-12-13T08:25:30Z"
+        }
+      },
+      "last_created_at": "2025-12-24T15:55:16Z",
+      "last_checked": "2025-12-25T22:25:07.644283+09:00",
+      "last_updated": "2025-12-25T22:25:07.644283+09:00"
+    },
+    "Yahoo-News": {
+      "hash": "6203f4e22221752bd4ece91534816c55104b65ec4eb585b2a439497bce817d70",
+      "last_updated": "2025-12-25T22:25:08.983543+09:00",
+      "last_checked": "2025-12-25T22:25:08.983543+09:00"
+    }
+  },
+  "site_manifest_cache": {
+    "sha": "3ac91281732efb04bb9a7457f0a420b0c4d8daae",
+    "fetched_at": "2025-12-25T22:24:23.164382+09:00",
+    "sites": [
+      {
+        "name": "VRChatStatus",
+        "url": "https://status.vrchat.com/history.rss",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "VRChatStatus-ManualGet",
+        "url": "https://status.vrchat.com/",
+        "interval_sec": 30
+      },
+      {
+        "name": "VRChatStatus.atom",
+        "url": "https://status.vrchat.com/history.atom",
+        "rss_items": 5,
+        "interval_sec": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "BoothVRChat-ACC",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-clothe",
+        "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-world",
+        "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "BoothVRChat-avater",
+        "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+        "rss_items": 30,
+        "interval_sec": 120,
+        "include_regex": [
+          "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+        ],
+        "exclude_regex": [
+          "/users/sign_in",
+          "/guide",
+          "/about",
+          "/carts",
+          "^https://booth\\.pm/$"
+        ]
+      },
+      {
+        "name": "CampFireVRChat",
+        "url": "https://camp-fire.jp/projects/search?word=VRChat",
+        "rss_items": 30,
+        "interval_sec": 43200,
+        "include_regex": [
+          "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+        ],
+        "exclude_regex": [
+          "^https://camp-fire\\.jp/$",
+          "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+          "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+          "\\?token="
+        ]
+      },
+      {
+        "name": "LRCHub-PR",
+        "url": "https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&sort=created&order=desc&per_page=50",
+        "rss_items": 50,
+        "interval_sec": 300,
+        "user_agent": "SiteRSSBot (LRCHub PR monitor)",
+        "include_regex": [
+          "^https://github\\.com/LRCHub/[^/]+/pull/\\d+$"
+        ],
+        "exclude_regex": [
+          "^https://api\\.github\\.com/"
+        ],
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      },
+      {
+        "name": "Yahoo-News",
+        "url": "https://news.yahoo.co.jp/",
+        "interval_sec": 30,
+        "tz": "Asia/Tokyo",
+        "rss_time_tz": "local"
+      }
+    ]
+  }
 }
