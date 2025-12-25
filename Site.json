@@ -78,6 +78,14 @@
       "exclude_regex": ["^https://api\\.github\\.com/"],
       "tz": "Asia/Tokyo",
       "rss_time_tz": "local"
+    },
+    {
+      "name": "Yahoo-News",
+      "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+      "interval_sec": 30,
+      "user_agent": "RSSBot (主要)",
+      "tz": "Asia/Tokyo",
+      "rss_time_tz": "local"
     }
   ]
 }
