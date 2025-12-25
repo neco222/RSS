@@ -78,40 +78,10 @@
       "exclude_regex": ["^https://api\\.github\\.com/"],
       "tz": "Asia/Tokyo",
       "rss_time_tz": "local"
-    },
-    {
-      "name": "Yahoo-News",
-      "url": "https://news.yahoo.co.jp/",
-      "rss_items": 30,
-      "interval_sec": 300,
-      "tz": "Asia/Tokyo",
-      "rss_time_tz": "local",
-    
-      "include_regex": [
-        "^https://news\\.yahoo\\.co\\.jp/(pickup/\\d+|articles/[0-9a-f]+)(?:\\?.*)?$"
-      ],
-      "exclude_regex": [
-        "^https://news\\.yahoo\\.co\\.jp/sponsored/",
-        "/users/",
-        "/purchase",
-        "/settings/",
-        "/comment",
-        "/comment-timeline",
-        "/ranking",
-        "/paidnews",
-        "/live",
-        "/expert",
-        "/original",
-        "/polls",
-        "/topics",
-        "/rss",
-        "support\\.yahoo-net\\.jp",
-        "privacy\\.lycorp\\.co\\.jp",
-        "lycorp\\.co\\.jp"
-      ]
     }
   ]
 }
+
 
 
 
