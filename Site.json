@@ -80,13 +80,38 @@
       "rss_time_tz": "local"
     },
     {
-      "name": "Yahoo-News",
+      "name": "Yahoo-News-FromTopPage",
       "url": "https://news.yahoo.co.jp/",
-      "interval_sec": 30,
+      "rss_items": 30,
+      "interval_sec": 300,
       "tz": "Asia/Tokyo",
-      "rss_time_tz": "local"
+      "rss_time_tz": "local",
+    
+      "include_regex": [
+        "^https://news\\.yahoo\\.co\\.jp/(pickup/\\d+|articles/[0-9a-f]+)(?:\\?.*)?$"
+      ],
+      "exclude_regex": [
+        "/users/",
+        "/purchase",
+        "/settings/",
+        "/comment",
+        "/comment-timeline",
+        "/ranking",
+        "/paidnews",
+        "/live",
+        "/expert",
+        "/original",
+        "/polls",
+        "/topics$",
+        "/topics/top-picks$",
+        "/rss$",
+        "support\\.yahoo-net\\.jp",
+        "privacy\\.lycorp\\.co\\.jp",
+        "lycorp\\.co\\.jp"
+      ]
     }
   ]
 }
+
 
 
