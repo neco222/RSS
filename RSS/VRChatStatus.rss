@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 24 Dec 2025 22:36:22 +0000</pubDate>
+    <pubDate>Thu, 25 Dec 2025 01:41:33 +0000</pubDate>
+    <item>
+      <title>Login Affected by Upstream Provider</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;01:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware and are investigating login issues caused by an outage at one of our upstream providers.&lt;/p&gt;      </description>
+      <pubDate>Thu, 25 Dec 2025 10:41:33 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/blsl5gj2bdqv</link>
+      <guid>https://status.vrchat.com/incidents/blsl5gj2bdqv</guid>
+    </item>
     <item>
       <title>Realtime Networking Maintenance</title>
       <description>
@@ -201,14 +209,6 @@
       <pubDate>Fri, 01 Aug 2025 20:27:33 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/vrcn516y16cm</link>
       <guid>https://status.vrchat.com/incidents/vrcn516y16cm</guid>
-    </item>
-    <item>
-      <title>US East Regional Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our upstream provider has rolled out another fix to address the issues affecting the US East region and this time looks to have properly resolved them.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - It appears that the fix rolled out by our upstream provider was not sufficient to cover the issues affecting our realtime servers in the US East region.&lt;br /&gt;&lt;br /&gt;Other regions appear to be unaffected at this time. For the time being you may temporarily want to choose a different region during instance creation while our upstream provider is continuing to work on a final solution to address the networking issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;06:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our upstream provider has rolled out a fix to address the networking issues affecting realtime servers in the US East region.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;04:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating issues that are being observed with the VRChat US East servers.&lt;br /&gt;&lt;br /&gt;Please move to other regions while we work on this issue.&lt;/p&gt;      </description>
-      <pubDate>Wed, 30 Jul 2025 23:33:52 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/2dp3xm86jzbp</link>
-      <guid>https://status.vrchat.com/incidents/2dp3xm86jzbp</guid>
     </item>
   </channel>
 </rss>
