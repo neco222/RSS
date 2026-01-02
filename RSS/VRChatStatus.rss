@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jan 2026 08:11:11 +0000</pubDate>
+    <pubDate>Fri, 02 Jan 2026 14:31:21 +0000</pubDate>
+    <item>
+      <title>Content Loading Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue affecting server processing causing some content (avatars and worlds) to fail to load.&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Jan 2026 23:31:21 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/tbjj81n3bfkx</link>
+      <guid>https://status.vrchat.com/incidents/tbjj81n3bfkx</guid>
+    </item>
     <item>
       <title>Login Affected by Upstream Provider</title>
       <description>
@@ -201,14 +209,6 @@
       <pubDate>Sat, 02 Aug 2025 12:46:59 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/d4q2v75vh0wh</link>
       <guid>https://status.vrchat.com/incidents/d4q2v75vh0wh</guid>
-    </item>
-    <item>
-      <title>Realtime Networking Connectivity Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;11:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our upstream provider has deployed a fix for the Japan region which has resolved the real time networking issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The realtime networking issues have stabilized, we're continuing to work with or upstream provider and monitor performance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;09:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're observing upstream provider network connectivity issues with our realtime servers which may result in timeouts and degraded performance across instances hosted in the Japan region.&lt;br /&gt;&lt;br /&gt;Other regions appear to be unaffected by this issue, for the time being you may temporarily want to choose a different region during instance creation while we're investigating this incident with our provider.&lt;/p&gt;      </description>
-      <pubDate>Fri, 01 Aug 2025 20:27:33 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/vrcn516y16cm</link>
-      <guid>https://status.vrchat.com/incidents/vrcn516y16cm</guid>
     </item>
   </channel>
 </rss>
