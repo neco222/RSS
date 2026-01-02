@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jan 2026 14:31:21 +0000</pubDate>
+    <pubDate>Fri, 02 Jan 2026 14:49:56 +0000</pubDate>
     <item>
       <title>Content Loading Issues</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue affecting server processing causing some content (avatars and worlds) to fail to load.&lt;/p&gt;      </description>
-      <pubDate>Fri, 02 Jan 2026 23:31:21 +0900</pubDate>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and the backlog of avatars and worlds is processing now&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue affecting server processing causing some content (avatars and worlds) to fail to load.&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Jan 2026 23:49:56 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/tbjj81n3bfkx</link>
       <guid>https://status.vrchat.com/incidents/tbjj81n3bfkx</guid>
     </item>
