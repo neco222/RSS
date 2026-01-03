@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 03 Jan 2026 03:51:18 +0000</pubDate>
+    <pubDate>Sat, 03 Jan 2026 05:04:41 +0000</pubDate>
+    <item>
+      <title>Friends &amp; Travel Performance Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;05:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're investigating issues with slowness in presence updates (friends list) and changing instances&lt;/p&gt;      </description>
+      <pubDate>Sat, 03 Jan 2026 14:04:41 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/9cn3s26glx4d</link>
+      <guid>https://status.vrchat.com/incidents/9cn3s26glx4d</guid>
+    </item>
     <item>
       <title>Content Loading Issues</title>
       <description>
@@ -201,14 +209,6 @@
       <pubDate>Sat, 02 Aug 2025 14:26:29 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/q0v6p1490dtm</link>
       <guid>https://status.vrchat.com/incidents/q0v6p1490dtm</guid>
-    </item>
-    <item>
-      <title>Realtime Networking US West Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;03:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Resolving this incident as a duplicate.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are observing a large amount of disconnections to the US West VRChat region.&lt;br /&gt;&lt;br /&gt;Please utilize other regions such as US East while we investigate this issue.&lt;/p&gt;      </description>
-      <pubDate>Sat, 02 Aug 2025 12:46:59 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/d4q2v75vh0wh</link>
-      <guid>https://status.vrchat.com/incidents/d4q2v75vh0wh</guid>
     </item>
   </channel>
 </rss>
