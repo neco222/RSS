@@ -124,27 +124,27 @@
     "VRChatStatus": {
       "hash": "1fca6a8099ff2edea0e0062eeaf7c38e3eac7bcb82fef6dc72bb0566127c9792",
       "last_updated": "2026-01-08T05:41:40.717941+09:00",
-      "last_checked": "2026-01-08T06:43:05.466272+09:00"
+      "last_checked": "2026-01-08T06:44:27.049585+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "d27030386919433d28ad97fc9517ca96919c6b9efe2804eba239ebdf17dcecf8",
-      "last_updated": "2026-01-08T06:43:05.779125+09:00",
-      "last_checked": "2026-01-08T06:43:05.779125+09:00"
+      "hash": "bd9be717a637d349a92526c18685d64177623a645f6cadd096a251afd5364b8b",
+      "last_updated": "2026-01-08T06:44:27.314291+09:00",
+      "last_checked": "2026-01-08T06:44:27.314291+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "aeeb46617863392ee82d69f4840b6ecc4283b84ac8aca27f31f0fb11d7091227",
       "last_updated": "2026-01-08T05:41:59.032198+09:00",
-      "last_checked": "2026-01-08T06:43:07.039395+09:00"
+      "last_checked": "2026-01-08T06:44:28.464759+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "dbad6690b9a306c32f6690e4eb4126b39d320748b6ed4cde87cde2269470ed73",
-      "last_updated": "2026-01-08T06:41:44.398012+09:00",
-      "last_checked": "2026-01-08T06:41:44.398012+09:00"
+      "hash": "86b456c8d4deac502cd807ae512c220039384a29426aa8086dda36cbb64dd832",
+      "last_updated": "2026-01-08T06:44:28.717823+09:00",
+      "last_checked": "2026-01-08T06:44:28.717823+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "7b2600d3f271c94044a4a37dd48ef2b25303e3c5c3038d56ccc1271f7aa0b669",
-      "last_updated": "2026-01-08T06:41:52.275170+09:00",
-      "last_checked": "2026-01-08T06:41:52.275170+09:00"
+      "hash": "b8ab70fc9e460e4b67190a43197d0a485aed84fa42bafac07a609bfb8c5dd243",
+      "last_updated": "2026-01-08T06:44:36.566484+09:00",
+      "last_checked": "2026-01-08T06:44:36.566484+09:00"
     },
     "BoothVRChat-world": {
       "hash": "9b32aa0a896e93ed4f73c77a9c59986d73c1bf60d74a7bf20c461a2a63233a5b",
@@ -189,7 +189,7 @@
         }
       },
       "last_created_at": "2025-12-19T08:54:33Z",
-      "last_checked": "2026-01-08T06:39:15.479521+09:00",
+      "last_checked": "2026-01-08T06:44:45.640599+09:00",
       "last_updated": "2025-12-26T00:31:49.136095+09:00"
     }
   }
