@@ -124,22 +124,22 @@
     "VRChatStatus": {
       "hash": "46c26b77bfc8e05b3eb2c20c882b9b59f842e5415d281f59831ed084b72e3da9",
       "last_updated": "2026-01-11T23:12:10.837801+09:00",
-      "last_checked": "2026-01-12T02:14:14.258483+09:00"
+      "last_checked": "2026-01-12T02:15:45.500575+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "dba3773a46b2ae13a020aa438b90b1cba4fc109603414943c93004f483c1a18b",
-      "last_updated": "2026-01-12T02:13:00.743708+09:00",
-      "last_checked": "2026-01-12T02:14:14.759935+09:00"
+      "hash": "8cfcc5f572703a5a124b3bdc319aba421f592ebc2261e357b1f846664e6f2432",
+      "last_updated": "2026-01-12T02:15:45.874764+09:00",
+      "last_checked": "2026-01-12T02:15:45.874764+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "13a260d1874c38f26bcffac98be2846eac78a7752fcac8983efbb6de0d90aeda",
       "last_updated": "2026-01-11T23:12:13.739905+09:00",
-      "last_checked": "2026-01-12T02:14:15.010861+09:00"
+      "last_checked": "2026-01-12T02:15:47.229020+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "e9ac83150271d7ea40fa2fbaef484c6af34e6098d4ed95806174315a98d7676f",
-      "last_updated": "2026-01-12T02:13:02.287195+09:00",
-      "last_checked": "2026-01-12T02:13:02.287195+09:00"
+      "hash": "b8cd48e146e8297e86aefe89569dc9ef5162f880c1ea4478595dfe380a1e4ea7",
+      "last_updated": "2026-01-12T02:15:47.484135+09:00",
+      "last_checked": "2026-01-12T02:15:47.484135+09:00"
     },
     "BoothVRChat-clothe": {
       "hash": "885957dbf16e7babe8120537a2c6b9e691b26ebe3dee48cf51f40475d42e8d49",
@@ -194,11 +194,19 @@
           "pubDate": "Sat, 10 Jan 2026 00:21:57 +0900",
           "description": "author: kaneemonn / LRCHub/E5hVng18OvA#1",
           "_created_at": "2026-01-09T15:21:57Z"
+        },
+        "https://github.com/LRCHub/cy-4YL--Cm8/pull/1": {
+          "title": "歌詞登録ステータスが正常に適用されていないのを修正",
+          "link": "https://github.com/LRCHub/cy-4YL--Cm8/pull/1",
+          "guid": "https://github.com/LRCHub/cy-4YL--Cm8/pull/1",
+          "pubDate": "Mon, 12 Jan 2026 02:10:54 +0900",
+          "description": "author: UltraRaid / LRCHub/cy-4YL--Cm8#1",
+          "_created_at": "2026-01-11T17:10:54Z"
         }
       },
-      "last_created_at": "2026-01-09T15:21:57Z",
-      "last_checked": "2026-01-12T02:10:24.491133+09:00",
-      "last_updated": "2026-01-10T00:23:43.964677+09:00"
+      "last_created_at": "2026-01-11T17:10:54Z",
+      "last_checked": "2026-01-12T02:15:55.595737+09:00",
+      "last_updated": "2026-01-12T02:15:55.595737+09:00"
     }
   }
 }
