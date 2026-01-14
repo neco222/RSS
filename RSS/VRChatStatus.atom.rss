@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-01-14T00:41:46Z</updated>
+  <updated>2026-01-14T03:03:41Z</updated>
   <author>
     <name>VRChat</name>
   </author>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28015721</id>
+    <published>2026-01-14T03:03:41Z</published>
+    <updated>2026-01-14T03:03:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/k58qfrk1k5hj"/>
+    <title>Network Connectivity Issues</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are monitoring network connectivity issues with our servers. Upstream providers have been contacted.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/28012851</id>
     <published>2026-01-13T22:49:13Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/t2z3rc88zlsb"/>
     <title>Login Issues</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We're observing logins return to normal levels&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue as global issues with Steam login. We are monitoring Steam's status messaging.&lt;br /&gt;&lt;br /&gt;This issue will only affect users utilizing Steam to log into VRChat. Please use direct VRChat email/password to log in until Steam resolves their issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently observing issues with logging in to VRChat&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/26143893</id>
-    <published>2025-08-16T12:40:38Z</published>
-    <updated>2025-08-16T12:40:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/n0m9yctq711f"/>
-    <title>Japan Regional Issues</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Connectivity in the Japan region has stabilized, we're continuing to work with our upstream provider and monitor the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;11:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're observing upstream provider network connectivity issues with our realtime servers which may result in timeouts and degraded performance across instances hosted in the Japan region.&lt;br /&gt;&lt;br /&gt;Other regions appear to be unaffected by this issue, for the time being you may temporarily want to choose a different region during instance creation while we're investigating this incident with our provider.&lt;/p&gt;</content>
   </entry>
 </feed>
