@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "1f916e24eafa50cd402a4e7b7ff29a220c5149f47e57611d89273979512346eb",
       "last_updated": "2026-01-18T01:16:08.312722+09:00",
-      "last_checked": "2026-01-18T03:30:23.957298+09:00"
+      "last_checked": "2026-01-18T03:32:05.561342+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "4727079327a574638f270a2cd7a7f9f439b415ea5469cfd37e0f8543da4e8fdc",
-      "last_updated": "2026-01-18T03:30:24.299979+09:00",
-      "last_checked": "2026-01-18T03:30:24.299979+09:00"
+      "hash": "078ce2dae8b267933cbd8a5f33f06d7acada2565dfaf4d778bc25693f8f5b7ee",
+      "last_updated": "2026-01-18T03:32:05.945362+09:00",
+      "last_checked": "2026-01-18T03:32:05.945362+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "5f1bce8aa71582680bfac7b6ab00af59efef03b434a360e76c0d49f5f43ad30a",
       "last_updated": "2026-01-18T01:23:02.643668+09:00",
-      "last_checked": "2026-01-18T03:30:25.692208+09:00"
+      "last_checked": "2026-01-18T03:32:07.095201+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "5ceb29eb186aea600bb2c736d12d74c90b9d3e8a29b1e8dc7acd31fef0f7f58d",
@@ -202,11 +202,19 @@
           "pubDate": "Mon, 12 Jan 2026 02:10:54 +0900",
           "description": "author: UltraRaid / LRCHub/cy-4YL--Cm8#1",
           "_created_at": "2026-01-11T17:10:54Z"
+        },
+        "https://github.com/LRCHub/ePIEmn_ejuM/pull/1": {
+          "title": "Update README.md",
+          "link": "https://github.com/LRCHub/ePIEmn_ejuM/pull/1",
+          "guid": "https://github.com/LRCHub/ePIEmn_ejuM/pull/1",
+          "pubDate": "Sun, 18 Jan 2026 03:30:56 +0900",
+          "description": "author: yamaryoymr2 / LRCHub/ePIEmn_ejuM#1",
+          "_created_at": "2026-01-17T18:30:56Z"
         }
       },
-      "last_created_at": "2025-12-19T08:54:33Z",
-      "last_checked": "2026-01-18T03:26:33.391548+09:00",
-      "last_updated": "2026-01-12T02:15:55.595737+09:00"
+      "last_created_at": "2026-01-17T18:30:56Z",
+      "last_checked": "2026-01-18T03:32:07.337762+09:00",
+      "last_updated": "2026-01-18T03:32:07.337762+09:00"
     }
   }
 }
