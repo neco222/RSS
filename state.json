@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "4da882694fbbcb35ee0510e8eee2dd95dc72537a67521636504c4678582b21bc",
       "last_updated": "2026-01-18T17:17:26.441798+09:00",
-      "last_checked": "2026-01-18T18:13:05.765025+09:00"
+      "last_checked": "2026-01-18T18:14:47.610626+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "b1cce149410fda646fb6ddaa645e648b26b5a7db99c3957a8cb71a3acba50c2c",
-      "last_updated": "2026-01-18T18:13:06.125238+09:00",
-      "last_checked": "2026-01-18T18:13:06.125238+09:00"
+      "hash": "b9e5c585b116971ddf4793eedf76e95b2b9d8b47e3d91d1b10645a887e689539",
+      "last_updated": "2026-01-18T18:14:47.975247+09:00",
+      "last_checked": "2026-01-18T18:14:47.975247+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "cc4cf3697112f03ce11e7a709b83de8a2b49c2c1d5ffc03e1d092f7c5a3bd618",
       "last_updated": "2026-01-18T17:17:50.814588+09:00",
-      "last_checked": "2026-01-18T18:13:07.287204+09:00"
+      "last_checked": "2026-01-18T18:14:49.062013+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "588ec24ca8d43c007d328fa7716f4e73d0d9af4ba8d09a28f9622f3fa9488936",
@@ -218,11 +218,19 @@
           "pubDate": "Sun, 18 Jan 2026 03:40:00 +0900",
           "description": "author: yamaryoymr2 / LRCHub/ePIEmn_ejuM#2",
           "_created_at": "2026-01-17T18:40:00Z"
+        },
+        "https://github.com/LRCHub/NOki6Qg476U/pull/1": {
+          "title": "歌詞のタイミングを修正",
+          "link": "https://github.com/LRCHub/NOki6Qg476U/pull/1",
+          "guid": "https://github.com/LRCHub/NOki6Qg476U/pull/1",
+          "pubDate": "Sun, 18 Jan 2026 18:11:48 +0900",
+          "description": "author: aigao0168 / LRCHub/NOki6Qg476U#1",
+          "_created_at": "2026-01-18T09:11:48Z"
         }
       },
-      "last_created_at": "2026-01-17T18:40:00Z",
-      "last_checked": "2026-01-18T18:09:15.016030+09:00",
-      "last_updated": "2026-01-18T03:43:07.658295+09:00"
+      "last_created_at": "2026-01-18T09:11:48Z",
+      "last_checked": "2026-01-18T18:14:49.526262+09:00",
+      "last_updated": "2026-01-18T18:14:49.526262+09:00"
     }
   }
 }
