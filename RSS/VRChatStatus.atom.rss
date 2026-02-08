@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-02-07T23:33:11Z</updated>
+  <updated>2026-02-08T02:16:57Z</updated>
   <author>
     <name>VRChat</name>
   </author>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28408635</id>
+    <published>2026-02-08T02:16:57Z</published>
+    <updated>2026-02-08T02:16:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/dl78s1nb5dt0"/>
+    <title>API Performance Issues</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/28092125</id>
     <published>2026-01-20T11:59:14Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/51gyytdwbt7t"/>
     <title>Japan Regional Issues</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've also observed this incident temporarily affecting API stability in other regions. The Japan region and our API have recovered.  We're continuing to monitor to ensure things remain stable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're observing upstream provider network connectivity issues with our realtime servers which may result in timeouts and degraded performance across instances hosted in the Japan region.&lt;br /&gt;&lt;br /&gt;Other regions appear to be unaffected by this issue, for the time being you may temporarily want to choose a different region during instance creation while we're investigating this incident with our provider.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/26357189</id>
-    <published>2025-09-06T06:09:24Z</published>
-    <updated>2025-09-06T06:09:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/72bwty76ckwj"/>
-    <title>Login &amp; Friends Issues</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;06:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and things are stabilizing, we'll continue to monitor. If you're stuck with an empty friends list you may need to restart VRChat.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue as a problem with one of our upstream providers. We're actively working to implement mitigations.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently observing issues with logging in to VRChat and receiving friend presence updates&lt;/p&gt;</content>
   </entry>
 </feed>
