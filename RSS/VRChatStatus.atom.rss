@@ -4,17 +4,17 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-02-08T03:55:21Z</updated>
+  <updated>2026-02-08T06:25:07Z</updated>
   <author>
     <name>VRChat</name>
   </author>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/28408635</id>
-    <published>2026-02-08T03:55:21Z</published>
-    <updated>2026-02-08T03:55:21Z</updated>
+    <published>2026-02-08T06:25:07Z</published>
+    <updated>2026-02-08T06:25:07Z</updated>
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/dl78s1nb5dt0"/>
     <title>API Performance Issues</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're again investigating increased latency and error rates of our API systems.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing api errors and latency returning to normal levels. We'll continue to monitor to ensure things remain stable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;06:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing api errors and latency returning to normal levels. We'll continue to monitor to ensure things remain stable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're again investigating increased latency and error rates of our API systems.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing api errors and latency returning to normal levels. We'll continue to monitor to ensure things remain stable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/28092125</id>
