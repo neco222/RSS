@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 07 Feb 2026 23:33:11 +0000</pubDate>
+    <pubDate>Sun, 08 Feb 2026 02:16:57 +0000</pubDate>
+    <item>
+      <title>API Performance Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems.&lt;/p&gt;      </description>
+      <pubDate>Sun, 08 Feb 2026 11:16:57 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/dl78s1nb5dt0</link>
+      <guid>https://status.vrchat.com/incidents/dl78s1nb5dt0</guid>
+    </item>
     <item>
       <title>Network Connectivity Issues</title>
       <description>
@@ -201,14 +209,6 @@
       <pubDate>Fri, 12 Sep 2025 01:33:14 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/51gyytdwbt7t</link>
       <guid>https://status.vrchat.com/incidents/51gyytdwbt7t</guid>
-    </item>
-    <item>
-      <title>Login &amp; Friends Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;06:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and things are stabilizing, we'll continue to monitor. If you're stuck with an empty friends list you may need to restart VRChat.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue as a problem with one of our upstream providers. We're actively working to implement mitigations.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently observing issues with logging in to VRChat and receiving friend presence updates&lt;/p&gt;      </description>
-      <pubDate>Sat, 06 Sep 2025 15:09:24 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/72bwty76ckwj</link>
-      <guid>https://status.vrchat.com/incidents/72bwty76ckwj</guid>
     </item>
   </channel>
 </rss>
