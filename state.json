@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-02-09T01:36:02.364151+09:00",
+    "fetched_at": "2026-02-09T13:36:37.697277+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "6031416a20eab6e02df487315c5761b5117755058c37b6226549f14213ffd567",
       "last_updated": "2026-02-09T06:44:47.350217+09:00",
-      "last_checked": "2026-02-09T13:35:05.096377+09:00"
+      "last_checked": "2026-02-09T13:36:37.697440+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "84b78e9c86fda87ce7bacb0aab4630809dc05dd737d3b07d271c25e337b1b6f5",
-      "last_updated": "2026-02-09T13:35:05.699601+09:00",
-      "last_checked": "2026-02-09T13:35:05.699601+09:00"
+      "hash": "8121de2cfe7e341e4af41b76902d42297a80818bcdc38073cdf796bf513bc25d",
+      "last_updated": "2026-02-09T13:36:38.591483+09:00",
+      "last_checked": "2026-02-09T13:36:38.591483+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "08668c6e719301f1bae339ea548780c93627168ee63938d716521f2b7bd99d02",
       "last_updated": "2026-02-09T06:39:50.833463+09:00",
-      "last_checked": "2026-02-09T13:35:07.016951+09:00"
+      "last_checked": "2026-02-09T13:36:40.038772+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "fb15350e922a0c9ec784933825fbea82a173435c217ae3767b5e9d2601630236",
@@ -152,9 +152,9 @@
       "last_checked": "2026-02-09T13:35:24.372546+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "c683fb67e72de9c8150cb4b1a36a03fd26d370e5960dec2a0db034c29b0f12c9",
-      "last_updated": "2026-02-09T13:33:52.977828+09:00",
-      "last_checked": "2026-02-09T13:33:52.977828+09:00"
+      "hash": "0e05dbc9ada0f4a72a0b42940456be88e397325fbcd82c29eef6c9a0f90b345b",
+      "last_updated": "2026-02-09T13:36:40.344881+09:00",
+      "last_checked": "2026-02-09T13:36:40.344881+09:00"
     },
     "CampFireVRChat": {
       "hash": "a6033c047e88363026e37cdd3f2021a2378f98f175d86c6d2b80c29c6faee7af",
