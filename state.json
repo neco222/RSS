@@ -122,19 +122,19 @@
   },
   "sites": {
     "VRChatStatus": {
-      "hash": "b8852d90c7074fcd25060d82b4bb7af17a33ca5728dc678d8d01c2ed32e84399",
-      "last_updated": "2026-02-12T09:28:59.579841+09:00",
-      "last_checked": "2026-02-12T12:37:26.165322+09:00"
+      "hash": "023ff73361592ba1b86bfd97fa433999da16f99577bfc7d84e5eba7ec722f733",
+      "last_updated": "2026-02-12T12:38:58.932076+09:00",
+      "last_checked": "2026-02-12T12:38:58.932076+09:00"
     },
     "VRChatStatus-ManualGet": {
       "hash": "5c59f345a2235078706107f18bf1197aa1c898cbc725a49ad86c84146ab215d8",
       "last_updated": "2026-02-12T12:37:26.477416+09:00",
-      "last_checked": "2026-02-12T12:37:26.477416+09:00"
+      "last_checked": "2026-02-12T12:39:19.499075+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "6e798858bee44707f07b389c385b618e5e2ce284c1dc737d5936c05f0f9b413a",
       "last_updated": "2026-02-12T09:31:33.865048+09:00",
-      "last_checked": "2026-02-12T12:37:27.602436+09:00"
+      "last_checked": "2026-02-12T12:39:19.881800+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "81cb725a98a09dd6110e30be3fb60a2dd9da775c1473ce0c787c3ae86f89fecf",
@@ -152,9 +152,9 @@
       "last_checked": "2026-02-12T12:37:47.760435+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "685ca6f918b2b3981e39604cf79dc07d8d810a7c3e2d97b283825728714fadc4",
-      "last_updated": "2026-02-12T12:36:15.849820+09:00",
-      "last_checked": "2026-02-12T12:36:15.849820+09:00"
+      "hash": "e094647fb31a1e4850ce100b28099a57556c2fa23268079ca3c74a305e26ed7e",
+      "last_updated": "2026-02-12T12:39:20.262912+09:00",
+      "last_checked": "2026-02-12T12:39:20.262912+09:00"
     },
     "CampFireVRChat": {
       "hash": "56ca84716878e1e1e4de07ba06a5ff59c4b551fbf05f43e3251191cc0bf2ef3d",
@@ -253,7 +253,7 @@
         }
       },
       "last_created_at": "2026-02-11T21:10:06Z",
-      "last_checked": "2026-02-12T12:33:37.870609+09:00",
+      "last_checked": "2026-02-12T12:39:28.400339+09:00",
       "last_updated": "2026-02-12T06:12:27.563838+09:00"
     }
   }
