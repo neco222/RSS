@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-02-21T13:57:29.279618+09:00",
+    "fetched_at": "2026-02-22T01:57:47.556048+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "44d58fde7a582f9eb0b3eeee83f8ffcfe8862957c5e8b973c0af752527603261",
       "last_updated": "2026-02-22T00:24:37.420898+09:00",
-      "last_checked": "2026-02-22T01:56:11.437376+09:00"
+      "last_checked": "2026-02-22T01:57:47.556191+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "421df8f2361275a2e32eb352adc74da15f5adb4d804bc155ec4897a7c32dba0e",
-      "last_updated": "2026-02-22T01:56:11.793010+09:00",
-      "last_checked": "2026-02-22T01:56:11.793010+09:00"
+      "hash": "a20f4314acaf0c8673f3e10537bb3b06435d306a1de647ec9b99345fa5d89738",
+      "last_updated": "2026-02-22T01:57:47.905680+09:00",
+      "last_checked": "2026-02-22T01:57:47.905680+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "22489f0fd06afc83bf3c4397236051f988147abeeb4b1de9a884275e3ed470b8",
       "last_updated": "2026-02-22T00:24:40.660852+09:00",
-      "last_checked": "2026-02-22T01:56:13.037549+09:00"
+      "last_checked": "2026-02-22T01:57:49.315561+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "5ae8f865e2cdee77988451e95f7d8c0882d440865409111ab9fa780229996989",
@@ -152,9 +152,9 @@
       "last_checked": "2026-02-22T01:56:33.591851+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "b3feee4e4affa2bc4461fd43dbee73ee6bf6d201ba65676582339ee096761154",
-      "last_updated": "2026-02-22T01:54:58.736392+09:00",
-      "last_checked": "2026-02-22T01:54:58.736392+09:00"
+      "hash": "eb05fe0f64fce03a3dcabe8866d37148c8dbb8c6c2e79a60a72d42d4282ed01e",
+      "last_updated": "2026-02-22T01:57:49.682015+09:00",
+      "last_checked": "2026-02-22T01:57:49.682015+09:00"
     },
     "CampFireVRChat": {
       "hash": "9b0bd3bbb3fa753aed7f68572aa26bbea38c14b9edfc0ecf716ecc39f3430bea",
