@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "9cfb2ea7aea757346a59932bee1c0cb65ac2bb21e8f0443b50b9bdd5844bcf2c",
       "last_updated": "2026-02-21T20:09:42.245524+09:00",
-      "last_checked": "2026-02-21T20:18:50.974083+09:00"
+      "last_checked": "2026-02-21T20:20:24.105968+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "d468c3877ab22bc069a31722f6a1a6229278eb8dd7a66875bdc4368f593529f5",
-      "last_updated": "2026-02-21T20:18:51.239430+09:00",
-      "last_checked": "2026-02-21T20:18:51.239430+09:00"
+      "hash": "9fa7218f30f5c4430dddcf8525943d60d2b340d39a1fb2751eb5478d12c75bfc",
+      "last_updated": "2026-02-21T20:20:24.453814+09:00",
+      "last_checked": "2026-02-21T20:20:24.453814+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "2523f550ce7d1b06ec26bb91e9e54e86ffbaa232288f8f89be89883c71731e8d",
       "last_updated": "2026-02-21T20:11:01.086382+09:00",
-      "last_checked": "2026-02-21T20:18:52.705993+09:00"
+      "last_checked": "2026-02-21T20:20:25.597617+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "a6afef1aa7ef45d67ae33332ca6a5037c7c6cf178605abfe7429765ffa1779d3",
@@ -152,9 +152,9 @@
       "last_checked": "2026-02-21T20:19:10.489300+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "60e04e6e134571472c3e2a8cae3623f680ff4ac8a874aff812aedc1bbb5d63ad",
-      "last_updated": "2026-02-21T20:17:37.433640+09:00",
-      "last_checked": "2026-02-21T20:17:37.433640+09:00"
+      "hash": "34a6f36affd2315db2153e2606df9a76bfdd156298a59efb0e14afe2aecb1334",
+      "last_updated": "2026-02-21T20:20:25.955742+09:00",
+      "last_checked": "2026-02-21T20:20:25.955742+09:00"
     },
     "CampFireVRChat": {
       "hash": "46f07c67dd40509286e8a84281f121cc3645e180e2e2e4dce9137bf546bf2853",
@@ -253,7 +253,7 @@
         }
       },
       "last_created_at": "2025-12-19T08:54:33Z",
-      "last_checked": "2026-02-21T20:15:33.795081+09:00",
+      "last_checked": "2026-02-21T20:20:35.057626+09:00",
       "last_updated": "2026-02-12T06:12:27.563838+09:00"
     }
   }
