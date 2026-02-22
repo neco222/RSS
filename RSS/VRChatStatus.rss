@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 22 Feb 2026 03:08:46 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 03:09:59 +0000</pubDate>
+    <item>
+      <title>API Performance Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;03:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems.&lt;/p&gt;      </description>
+      <pubDate>Sun, 22 Feb 2026 12:09:59 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/v5g4kfc0fn63</link>
+      <guid>https://status.vrchat.com/incidents/v5g4kfc0fn63</guid>
+    </item>
     <item>
       <title>Maintenance</title>
       <description>
@@ -202,14 +210,6 @@
       <pubDate>Tue, 07 Oct 2025 17:00:19 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/h30xy8yc9wy0</link>
       <guid>https://status.vrchat.com/incidents/h30xy8yc9wy0</guid>
-    </item>
-    <item>
-      <title>Realtime Networking Performance Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;06:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The upstream provider network connectivity issues, caused by a transit provider, have been resolved. All realtime servers in the US West region appear stable as of 03:52 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're observing upstream provider network connectivity issues with our realtime servers which may result in timeouts and degraded performance across instances hosted in the US West region.&lt;br /&gt;&lt;br /&gt;Other regions appear to be unaffected by this issue, for the time being you may temporarily want to choose a different region during instance creation while we're investigating this incident with our provider.&lt;/p&gt;      </description>
-      <pubDate>Fri, 03 Oct 2025 15:05:12 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/9b41lvb5583h</link>
-      <guid>https://status.vrchat.com/incidents/9b41lvb5583h</guid>
     </item>
   </channel>
 </rss>
