@@ -4,7 +4,16 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 25 Feb 2026 20:39:12 +0000</pubDate>
+    <pubDate>Wed, 25 Feb 2026 23:35:36 +0000</pubDate>
+    <item>
+      <title>Realtime Networking Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window.&lt;/p&gt;      </description>
+      <pubDate>Thu, 26 Feb 2026 17:00:00 +0900</pubDate>
+      <maintenanceEndDate>Thu, 26 Feb 2026 11:00:00 +0000</maintenanceEndDate>
+      <link>https://status.vrchat.com/incidents/wfg2339lmwns</link>
+      <guid>https://status.vrchat.com/incidents/wfg2339lmwns</guid>
+    </item>
     <item>
       <title>Realtime Networking Maintenance</title>
       <description>
@@ -203,14 +212,6 @@
       <maintenanceEndDate>Wed, 08 Oct 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/697kst74kt64</link>
       <guid>https://status.vrchat.com/incidents/697kst74kt64</guid>
-    </item>
-    <item>
-      <title>Login Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;17:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We're observing logins return to normal levels&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're seeing issues with Steam login and Steam related services. We are monitoring Steam's status messaging.&lt;br /&gt;&lt;br /&gt;This issue will only affect users utilizing Steam to log into VRChat. Please use direct VRChat email/password to log in until Steam resolves their issues.&lt;/p&gt;      </description>
-      <pubDate>Wed, 08 Oct 2025 02:37:21 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/ptbd0150gnw0</link>
-      <guid>https://status.vrchat.com/incidents/ptbd0150gnw0</guid>
     </item>
   </channel>
 </rss>
