@@ -4,8 +4,22 @@
     <title>LRCHub-PR</title>
     <link>https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&amp;sort=created&amp;order=desc&amp;per_page=50</link>
     <description>Auto-generated feed</description>
-    <lastBuildDate>Thu, 12 Feb 2026 06:12:27 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 05:32:49 +0900</lastBuildDate>
     <generator>SiteRSSBot</generator>
+    <item>
+      <title>Adjust lyric timestamp in README</title>
+      <link>https://github.com/LRCHub/7HMXIZbaq8E/pull/2</link>
+      <guid isPermaLink="true">https://github.com/LRCHub/7HMXIZbaq8E/pull/2</guid>
+      <pubDate>Sun, 01 Mar 2026 05:29:15 +0900</pubDate>
+      <description>author: uletan0913-dev / LRCHub/7HMXIZbaq8E#2</description>
+    </item>
+    <item>
+      <title>Adjust lyric timestamp in README</title>
+      <link>https://github.com/LRCHub/7HMXIZbaq8E/pull/1</link>
+      <guid isPermaLink="true">https://github.com/LRCHub/7HMXIZbaq8E/pull/1</guid>
+      <pubDate>Sun, 01 Mar 2026 05:27:51 +0900</pubDate>
+      <description>author: uletan0913-dev / LRCHub/7HMXIZbaq8E#1</description>
+    </item>
     <item>
       <title>歌詞同期がバグっているのを修正</title>
       <link>https://github.com/LRCHub/sePuIpAhdB0/pull/1</link>
