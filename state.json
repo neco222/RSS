@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-03-09T14:25:12.780789+09:00",
+    "fetched_at": "2026-03-10T02:25:17.328324+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "95d66b523ebe7d733dd156cfaa208853a079efd59ad318a2f786f6cd7e471c96",
       "last_updated": "2026-03-10T01:12:20.235001+09:00",
-      "last_checked": "2026-03-10T02:23:44.095530+09:00"
+      "last_checked": "2026-03-10T02:25:17.328483+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "856c6d11dda4b9f1fb57ef00d24e440af72d0a7b460443022dc9cb2ddcadc0ed",
-      "last_updated": "2026-03-10T02:23:44.469490+09:00",
-      "last_checked": "2026-03-10T02:23:44.469490+09:00"
+      "hash": "94a447ddd9d3fd25fda27a8de043139449e5acf1af8f6463fdf7b0631968e500",
+      "last_updated": "2026-03-10T02:25:17.690197+09:00",
+      "last_checked": "2026-03-10T02:25:17.690197+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "fcb625b8461b94984695483414eb0c1668305773e250a6afe66f24816f5c2e6b",
       "last_updated": "2026-03-10T01:10:54.152485+09:00",
-      "last_checked": "2026-03-10T02:23:45.726344+09:00"
+      "last_checked": "2026-03-10T02:25:19.214687+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "ff51c283c2eb6855b0b13d0a66519b630a19afc8da78b659cc36dfc4f2d70cb8",
@@ -152,9 +152,9 @@
       "last_checked": "2026-03-10T02:24:04.854409+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "a36ee1d96deb4cb6c960a47e656649f5a7c2336dabdff70218b28f271941d8a4",
-      "last_updated": "2026-03-10T02:22:31.559454+09:00",
-      "last_checked": "2026-03-10T02:22:31.559454+09:00"
+      "hash": "383b139c25e2164996f7911cb85f12c2581a7d75e8dc2a5dda70cb95efbaa702",
+      "last_updated": "2026-03-10T02:25:19.593647+09:00",
+      "last_checked": "2026-03-10T02:25:19.593647+09:00"
     },
     "CampFireVRChat": {
       "hash": "ff22f5715958b785d99f2de677ea5754619cc3a4f9b1e22baf3088b2cf5cfff4",
