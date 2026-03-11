@@ -4,7 +4,16 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 11 Mar 2026 17:11:47 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2026 17:35:03 +0000</pubDate>
+    <item>
+      <title>Friends List Maintenence</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list may be affected.&lt;/p&gt;      </description>
+      <pubDate>Thu, 12 Mar 2026 23:30:00 +0900</pubDate>
+      <maintenanceEndDate>Thu, 12 Mar 2026 16:30:00 +0000</maintenanceEndDate>
+      <link>https://status.vrchat.com/incidents/yjmwqhqm8dmw</link>
+      <guid>https://status.vrchat.com/incidents/yjmwqhqm8dmw</guid>
+    </item>
     <item>
       <title>Friends List Maintenence</title>
       <description>
@@ -203,15 +212,6 @@
       <pubDate>Sat, 01 Nov 2025 02:15:14 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/vc78drb35jfv</link>
       <guid>https://status.vrchat.com/incidents/vc78drb35jfv</guid>
-    </item>
-    <item>
-      <title>Major Maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;19:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. We're back online!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Around this time, VRChat might experience a full service outage. During this time, you probably will not be able to connect to VRChat (or, at the very least, experience degraded performance).&lt;/p&gt;      </description>
-      <pubDate>Fri, 31 Oct 2025 04:59:06 +0900</pubDate>
-      <maintenanceEndDate>Thu, 30 Oct 2025 20:30:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/8l1377xm7yx4</link>
-      <guid>https://status.vrchat.com/incidents/8l1377xm7yx4</guid>
     </item>
   </channel>
 </rss>
