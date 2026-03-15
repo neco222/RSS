@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 15 Mar 2026 19:43:59 +0000</pubDate>
+    <pubDate>Sun, 15 Mar 2026 21:03:12 +0000</pubDate>
     <item>
       <title>API Outage</title>
       <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're currently seeing high amounts of latency and errors in our API systems&lt;/p&gt;      </description>
-      <pubDate>Mon, 16 Mar 2026 04:19:04 +0900</pubDate>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate the issues causing the ongoing outage. There is currently no estimate of time to fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We're currently seeing high amounts of latency and errors in our API systems&lt;/p&gt;      </description>
+      <pubDate>Mon, 16 Mar 2026 06:03:12 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/7pwk87c8fpvh</link>
       <guid>https://status.vrchat.com/incidents/7pwk87c8fpvh</guid>
     </item>
