@@ -124,37 +124,37 @@
     "VRChatStatus": {
       "hash": "53c7f4fa99ee5337955462052de676ba02d67c085d1c9d28c851cf65e63a2d36",
       "last_updated": "2026-03-16T22:24:18.906492+09:00",
-      "last_checked": "2026-03-16T22:52:39.816993+09:00"
+      "last_checked": "2026-03-16T22:53:45.928727+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "906ef8e4e36c1ad2e1ce99464ff55bd75b7647cdb155fe4b26327d26a0f035b6",
-      "last_updated": "2026-03-16T22:52:40.122853+09:00",
-      "last_checked": "2026-03-16T22:52:40.122853+09:00"
+      "hash": "3fad7e1420094140f4aba99f99ba9756957a9bf4b9a634ef2ce2259cdd4e421a",
+      "last_updated": "2026-03-16T22:53:46.308166+09:00",
+      "last_checked": "2026-03-16T22:53:46.308166+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "957855db37d99da1696a0fcfb2aaa8f620550f6dcca823bc7980443507b82612",
       "last_updated": "2026-03-16T22:24:37.489927+09:00",
-      "last_checked": "2026-03-16T22:52:41.489881+09:00"
+      "last_checked": "2026-03-16T22:53:47.750796+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "cfff63cb56eba125d7be73be18197b3d493cd3cbad17a96be5984ecdea2912b3",
-      "last_updated": "2026-03-16T22:50:59.406542+09:00",
-      "last_checked": "2026-03-16T22:50:59.406542+09:00"
+      "hash": "218b36b4ddf17e0b613a9bc6cc5b8f98626878095b1401f579b3f31c49f7573b",
+      "last_updated": "2026-03-16T22:53:48.111528+09:00",
+      "last_checked": "2026-03-16T22:53:48.111528+09:00"
     },
     "BoothVRChat-clothe": {
-      "hash": "c37c95aae273fb9d9cdb637d0f88a45ce81e3e431c329c8348e80416ef21a202",
-      "last_updated": "2026-03-16T22:51:06.670100+09:00",
-      "last_checked": "2026-03-16T22:51:06.670100+09:00"
+      "hash": "7731cbf66feabd19315718735617f69339c03cc1befcf5d25ecd16110998e8a5",
+      "last_updated": "2026-03-16T22:53:56.042430+09:00",
+      "last_checked": "2026-03-16T22:53:56.042430+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "7f39b478cfa09001a4dd85e09008e7674060cdc73f4e390e2cd721ea70b61bc1",
-      "last_updated": "2026-03-16T22:51:16.501504+09:00",
-      "last_checked": "2026-03-16T22:51:16.501504+09:00"
+      "hash": "44ee2079d0d2cb429fad4777aa6513f369a0a1dbecc4444abbf3fed31853a13b",
+      "last_updated": "2026-03-16T22:54:06.479330+09:00",
+      "last_checked": "2026-03-16T22:54:06.479330+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "ae6d06c1053b4da1fad4651568503bf4664648ebb798fedc4870a5ef7186fd7d",
-      "last_updated": "2026-03-16T22:51:25.502460+09:00",
-      "last_checked": "2026-03-16T22:51:25.502460+09:00"
+      "hash": "1d701a1598200d5fab864a6f39c09d45e228d62b1849660a4e10e91e1ca0cc2a",
+      "last_updated": "2026-03-16T22:54:15.542703+09:00",
+      "last_checked": "2026-03-16T22:54:15.542703+09:00"
     },
     "CampFireVRChat": {
       "hash": "7eb1d287344cf22b5ce032d6f462385bfbbec4b931e147cba6601ab9bc955df2",
@@ -269,7 +269,7 @@
         }
       },
       "last_created_at": "2026-02-28T20:29:15Z",
-      "last_checked": "2026-03-16T22:48:44.421850+09:00",
+      "last_checked": "2026-03-16T22:54:24.419097+09:00",
       "last_updated": "2026-03-01T05:32:49.723148+09:00"
     }
   }
