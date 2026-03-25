@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "a79e54f43d46a7d2250d149746ba6e182486d80f10f963819f4facfc8e45f1dc",
       "last_updated": "2026-03-25T18:09:26.585746+09:00",
-      "last_checked": "2026-03-25T19:19:48.763570+09:00"
+      "last_checked": "2026-03-25T19:21:16.282924+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "57eee98cd4143b642ca9bd44a5e57abcd3d36284edecc146d2ce19e11a97400b",
-      "last_updated": "2026-03-25T19:19:49.276953+09:00",
-      "last_checked": "2026-03-25T19:19:49.276953+09:00"
+      "hash": "d2736e5e061038fed3dbe2ed4800117e3945e952b63271cdab78bd14b06a8d52",
+      "last_updated": "2026-03-25T19:21:16.770013+09:00",
+      "last_checked": "2026-03-25T19:21:16.770013+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "300ec013bb19800ba77c92ab2103afdb6f4ddfd3490f03d7996afbe7b3589be7",
       "last_updated": "2026-03-25T18:09:47.103097+09:00",
-      "last_checked": "2026-03-25T19:19:50.353509+09:00"
+      "last_checked": "2026-03-25T19:21:18.100540+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "ea505d5a1124efe49b2dd2d3e3ff52fa64a20a9c5e2d2264553a1800f7b82caa",
@@ -147,14 +147,14 @@
       "last_checked": "2026-03-25T19:19:59.842014+09:00"
     },
     "BoothVRChat-world": {
-      "hash": "add9cae3232a1350fb0ec68d2764cb1f5783c5acf50ef315fca45c30e93e2714",
-      "last_updated": "2026-03-25T19:18:25.499318+09:00",
-      "last_checked": "2026-03-25T19:18:25.499318+09:00"
+      "hash": "2c4fe5e95ca6beee71c6e037ceb92f22387853151736c8e4c32469981d888134",
+      "last_updated": "2026-03-25T19:21:18.353336+09:00",
+      "last_checked": "2026-03-25T19:21:18.353336+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "d85458ae1cd76c41747de41bca17b4ea09b41e0efd3215166b86d73cf4961405",
-      "last_updated": "2026-03-25T19:18:34.971555+09:00",
-      "last_checked": "2026-03-25T19:18:34.971555+09:00"
+      "hash": "cc7abd7ad76fb95bca94b485f38ed10847eb460f046173771354797abd863431",
+      "last_updated": "2026-03-25T19:21:27.414067+09:00",
+      "last_checked": "2026-03-25T19:21:27.414067+09:00"
     },
     "CampFireVRChat": {
       "hash": "bc5f43eb5ef0210fb428cc70d787555e30b79a0a69a68e6bccfeed55b9ab2cd2",
@@ -266,11 +266,19 @@
           "pubDate": "Sun, 01 Mar 2026 05:27:51 +0900",
           "description": "author: uletan0913-dev / LRCHub/7HMXIZbaq8E#1",
           "_created_at": "2026-02-28T20:27:51Z"
+        },
+        "https://github.com/LRCHub/aC4CdVDFzB4/pull/1": {
+          "title": "Update lyrics and add new content to README",
+          "link": "https://github.com/LRCHub/aC4CdVDFzB4/pull/1",
+          "guid": "https://github.com/LRCHub/aC4CdVDFzB4/pull/1",
+          "pubDate": "Wed, 25 Mar 2026 19:21:05 +0900",
+          "description": "author: nanashima4268 / LRCHub/aC4CdVDFzB4#1",
+          "_created_at": "2026-03-25T10:21:05Z"
         }
       },
-      "last_created_at": "2026-02-28T20:29:15Z",
-      "last_checked": "2026-03-25T19:15:47.925935+09:00",
-      "last_updated": "2026-03-01T05:32:49.723148+09:00"
+      "last_created_at": "2026-03-25T10:21:05Z",
+      "last_checked": "2026-03-25T19:21:35.914239+09:00",
+      "last_updated": "2026-03-25T19:21:35.914239+09:00"
     }
   }
 }
