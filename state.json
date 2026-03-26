@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-03-26T14:52:51.572537+09:00",
+    "fetched_at": "2026-03-27T02:54:27.937043+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "1865d41707156a67d77c1ea981008ef7203b766991344ee6f39768ce787d9a12",
       "last_updated": "2026-03-26T22:39:10.526807+09:00",
-      "last_checked": "2026-03-27T02:52:48.225470+09:00"
+      "last_checked": "2026-03-27T02:54:27.937169+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "8ac1d436cff16ef2a38c0ce6892a65835f2b70d26b22778350bbb075b2805039",
-      "last_updated": "2026-03-27T02:52:48.799363+09:00",
-      "last_checked": "2026-03-27T02:52:48.799363+09:00"
+      "hash": "f0fd5a6ed42e5c1fa59299d8c71ed748cafdfa9e11f59bcada932570426afb48",
+      "last_updated": "2026-03-27T02:54:28.302506+09:00",
+      "last_checked": "2026-03-27T02:54:28.302506+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "c950e22d64b00eff2ba4cb356974ce36bcadf885787302ddbf904f3f3119e20b",
       "last_updated": "2026-03-26T22:39:31.001743+09:00",
-      "last_checked": "2026-03-27T02:52:50.362238+09:00"
+      "last_checked": "2026-03-27T02:54:29.819831+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "abf58ec750b76a466fc041dbae87da66eea5f727e70e53ed8de972c5df959f93",
@@ -152,9 +152,9 @@
       "last_checked": "2026-03-27T02:53:12.484055+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "1113f9e6d8f3588db11d7419c958c223004881e460336749161b3089c3b6883e",
-      "last_updated": "2026-03-27T02:51:36.104906+09:00",
-      "last_checked": "2026-03-27T02:51:36.104906+09:00"
+      "hash": "3f3a850871260373d62429dd6785eb96da085eb93c937258aaf7c4394c2ab7b1",
+      "last_updated": "2026-03-27T02:54:30.180043+09:00",
+      "last_checked": "2026-03-27T02:54:30.180043+09:00"
     },
     "CampFireVRChat": {
       "hash": "949575c242d98cd40b0b34289a9b1666db824fb211e023f15c5eff267ee3db31",
