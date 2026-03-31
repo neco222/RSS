@@ -4,7 +4,7 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 31 Mar 2026 20:24:12 +0000</pubDate>
+    <pubDate>Tue, 31 Mar 2026 20:30:10 +0000</pubDate>
     <item>
       <title>Realtime Networking Maintenance</title>
       <description>
@@ -17,8 +17,8 @@
     <item>
       <title>Realtime Networking Maintenance</title>
       <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window.&lt;/p&gt;      </description>
-      <pubDate>Wed, 01 Apr 2026 03:30:07 +0900</pubDate>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window.&lt;/p&gt;      </description>
+      <pubDate>Wed, 01 Apr 2026 05:30:10 +0900</pubDate>
       <maintenanceEndDate>Tue, 31 Mar 2026 20:30:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/3h82p6747crq</link>
       <guid>https://status.vrchat.com/incidents/3h82p6747crq</guid>
