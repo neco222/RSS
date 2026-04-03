@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-04-03T15:05:49.631038+09:00",
+    "fetched_at": "2026-04-04T03:06:58.418496+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "32aef488b2518f5a8899a72de805da1f4189011a7abf6dd3061bb6ca85173770",
       "last_updated": "2026-04-04T01:22:24.709566+09:00",
-      "last_checked": "2026-04-04T03:05:17.725504+09:00"
+      "last_checked": "2026-04-04T03:06:58.418649+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "cfd5206a05e9c6948f44a8ea4afc48ed8c4cdc6ede4ddefa1ce79c037dc4cebc",
-      "last_updated": "2026-04-04T03:05:18.117714+09:00",
-      "last_checked": "2026-04-04T03:05:18.117714+09:00"
+      "hash": "3db8249bbc852bca796dabdb2d4b81b525fe7c9e16d91707ad40b254ec351fcf",
+      "last_updated": "2026-04-04T03:06:58.947296+09:00",
+      "last_checked": "2026-04-04T03:06:58.947296+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "05750b9e593f89bec7f6ea5851694a9ac3f1d135590b70e8fa835cbe1e42e088",
       "last_updated": "2026-04-04T01:14:57.973334+09:00",
-      "last_checked": "2026-04-04T03:05:19.365115+09:00"
+      "last_checked": "2026-04-04T03:07:00.178634+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "53be9cfc0f5d6a6d3a96b0e364bfd4d13039e6dbfb728775ea5e04f240104923",
