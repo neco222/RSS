@@ -124,22 +124,22 @@
     "VRChatStatus": {
       "hash": "a609b2d70a986eaed34e5021b2498ef6d7637dc0cbe152d734d2a0742c28b718",
       "last_updated": "2026-04-12T11:30:06.712170+09:00",
-      "last_checked": "2026-04-12T15:04:17.023669+09:00"
+      "last_checked": "2026-04-12T15:05:48.919411+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "e07f7e1347b808fff78e24b5e199c8257f39e75f9bb034bbb549d991ac59b7c8",
-      "last_updated": "2026-04-12T15:04:17.393284+09:00",
-      "last_checked": "2026-04-12T15:04:17.393284+09:00"
+      "hash": "ee49f5a53f1c67939c4e9ae1e987f3ed0aa953ee84523fcbb154bcd442714101",
+      "last_updated": "2026-04-12T15:05:49.395821+09:00",
+      "last_checked": "2026-04-12T15:05:49.395821+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "654c458e8e0bce332637bb29d4645c383ef721c5182791d0edf79941530d74dd",
       "last_updated": "2026-04-12T11:30:10.873067+09:00",
-      "last_checked": "2026-04-12T15:04:18.891452+09:00"
+      "last_checked": "2026-04-12T15:05:50.738750+09:00"
     },
     "BoothVRChat-ACC": {
-      "hash": "1f2fe7ddaa6c6de28a96f88f4034cab58fae7d7392da0f7d9f8d246974c55eae",
-      "last_updated": "2026-04-12T15:03:03.971723+09:00",
-      "last_checked": "2026-04-12T15:03:03.971723+09:00"
+      "hash": "0df8689b4885be842a45c9fcda5671a63ac583662edad2747dd2b7b8c0fc588c",
+      "last_updated": "2026-04-12T15:05:51.107095+09:00",
+      "last_checked": "2026-04-12T15:05:51.107095+09:00"
     },
     "BoothVRChat-clothe": {
       "hash": "d1ba88558e397cd67f8a25a00c64255f5be15d940bd5cb66a77cbbccd3968142",
@@ -157,9 +157,9 @@
       "last_checked": "2026-04-12T15:04:36.858230+09:00"
     },
     "CampFireVRChat": {
-      "hash": "6dac4db03445692ff3b01115a0498dc37eb2df6f8ef435b620763dfa599767b4",
-      "last_updated": "2026-04-12T03:05:46.863494+09:00",
-      "last_checked": "2026-04-12T03:05:46.863494+09:00"
+      "hash": "22e0a0232f0857f305dec28bca5d20ba6e39f3ebd073cd6bc82705f0e19d6fec",
+      "last_updated": "2026-04-12T15:06:00.104463+09:00",
+      "last_checked": "2026-04-12T15:06:00.104463+09:00"
     },
     "LRCHub-PR": {
       "archive": {
@@ -285,7 +285,7 @@
         }
       },
       "last_created_at": "2026-03-25T10:29:19Z",
-      "last_checked": "2026-04-12T15:00:23.215682+09:00",
+      "last_checked": "2026-04-12T15:06:02.201121+09:00",
       "last_updated": "2026-03-25T19:33:42.150590+09:00"
     }
   }
