@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-05-17T16:59:39.338838+09:00",
+    "fetched_at": "2026-05-18T04:59:39.785705+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "8b09eb81f4af23bbf75ff6085b77899279f58a18f14cf1100c6de95952965611",
       "last_updated": "2026-05-16T07:26:44.578890+09:00",
-      "last_checked": "2026-05-18T04:58:06.240537+09:00"
+      "last_checked": "2026-05-18T04:59:39.785875+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "39c90c95553d9bce2816fefa080ea00603d834910343da149d1b08fd308b2d41",
-      "last_updated": "2026-05-18T04:58:06.714535+09:00",
-      "last_checked": "2026-05-18T04:58:06.714535+09:00"
+      "hash": "47ac7c2543d9330f87469ea8f5a848ac1a6485a6c5215e69cf3c7f9d48e95f44",
+      "last_updated": "2026-05-18T04:59:40.245164+09:00",
+      "last_checked": "2026-05-18T04:59:40.245164+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "8a21c3509f409dc1d13a5445341606020e4eab9eb1ba85499f9cb39cffc53dfe",
       "last_updated": "2026-05-16T07:21:17.818586+09:00",
-      "last_checked": "2026-05-18T04:58:08.097895+09:00"
+      "last_checked": "2026-05-18T04:59:41.548303+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "1498cba13d887e924ca12c3d5a813769c95918d46949f84d03885ac026d5ec3f",
@@ -152,9 +152,9 @@
       "last_checked": "2026-05-18T04:58:25.815652+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "be526d51bfcfed230faab7021b916e9ac1f3844d69004c1251096be04f1fd0d4",
-      "last_updated": "2026-05-18T04:56:55.491607+09:00",
-      "last_checked": "2026-05-18T04:56:55.491607+09:00"
+      "hash": "285714eb56c60c3bef8444037d9af644976127b456732ce68bfc3e164c83978e",
+      "last_updated": "2026-05-18T04:59:41.881825+09:00",
+      "last_checked": "2026-05-18T04:59:41.881825+09:00"
     },
     "CampFireVRChat": {
       "hash": "2bbe3ef56573c15461a75d3fe4b9648c91898ce53438aa74b6f905379a30f25a",
