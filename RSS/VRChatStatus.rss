@@ -4,7 +4,7 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 24 May 2026 03:45:51 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 04:59:11 +0000</pubDate>
     <item>
       <title>Database Maintenance</title>
       <description>
@@ -17,8 +17,8 @@
     <item>
       <title>API Outage</title>
       <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing our systems recover and are monitoring to ensure they remain stable &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;      </description>
-      <pubDate>Sun, 24 May 2026 12:45:51 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing our systems recover and are monitoring to ensure they remain stable &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;      </description>
+      <pubDate>Sun, 24 May 2026 13:59:11 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/szrzs1zc1l49</link>
       <guid>https://status.vrchat.com/incidents/szrzs1zc1l49</guid>
     </item>
