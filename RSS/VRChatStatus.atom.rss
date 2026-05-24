@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-05-23T23:39:43Z</updated>
+  <updated>2026-05-24T01:08:45Z</updated>
   <author>
     <name>VRChat</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/zx1ctk46s6jk"/>
     <title>Database Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance at this time. All systems will still be operational during this maintenance. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30281936</id>
+    <published>2026-05-24T01:08:45Z</published>
+    <updated>2026-05-24T01:08:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/szrzs1zc1l49"/>
+    <title>API Outage</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/30143562</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/13tt206976hh"/>
     <title>Network Connectivity Issues</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The fix has been rolled out to all servers in the Japan and Europe region. We will continue to monitor for a short while to ensure all is stable but generally the issue should now be resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We're currently working with our upstream provider to roll out corrective measures to improve the overall stability of our realtime servers in the Japan and Europe region. These configuration updates may cause brief interruptions while they're being applied. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The aforementioned changes have been successfully rolled out and all realtime networking servers in the US-West region are back online. We'll continue monitoring for stability. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We're currently working with our upstream provider to roll out corrective measures to improve the overall stability of our realtime servers in the US-West region. These configuration updates may cause brief interruptions while they're being applied. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;05:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are aware of some issues resulting in disconnections and inability to log into VRChat. We suspect that this is related to an upstream provider. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/28012851</id>
-    <published>2026-01-16T21:08:38Z</published>
-    <updated>2026-01-16T21:08:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/fjct0f21vl8l"/>
-    <title>Intermittent slow connection times in the US East region</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The fix has proved to be working and now has been rolled out fully. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The fix is now partially rolled out, as mentioned in the last update expect some cases where connection times remain slow still. We'll be monitoring how things go and once confident enough roll out the fix fully. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We believe we've identified the root issue and have implemented a fix, we will be partially rolling out the fix and spend some time evaluating it to ensure it's working as expected. Pending the fix proves stable we will be rolling it out fully. Until the fix rolls out fully expect some cases where connection times remain slow still. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Issues are still intermittent, we have been working with our upstream providers to get to the bottom of the issue. Expect within the next few hours potential disconnects outside the actual issue as we look to diagnose the root issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Connection times appear to have returned to normal, we will be continuing to monitor the situation. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are observing issues once again with slow connection times on the PC platform &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Connection times appear to have returned to normal, we will be continuing to monitor the situation. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating users experiencing slow connection times on the PC platform specifically in the US East region &lt;/p&gt;</content>
   </entry>
 </feed>
