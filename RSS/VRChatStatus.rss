@@ -4,7 +4,7 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 23 May 2026 23:39:43 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 01:08:45 +0000</pubDate>
     <item>
       <title>Database Maintenance</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Wed, 27 May 2026 17:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/zx1ctk46s6jk</link>
       <guid>https://status.vrchat.com/incidents/zx1ctk46s6jk</guid>
+    </item>
+    <item>
+      <title>API Outage</title>
+      <description>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;      </description>
+      <pubDate>Sun, 24 May 2026 10:08:45 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/szrzs1zc1l49</link>
+      <guid>https://status.vrchat.com/incidents/szrzs1zc1l49</guid>
     </item>
     <item>
       <title>Database Maintenance</title>
@@ -215,14 +223,6 @@
       <pubDate>Tue, 20 Jan 2026 20:59:14 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/13tt206976hh</link>
       <guid>https://status.vrchat.com/incidents/13tt206976hh</guid>
-    </item>
-    <item>
-      <title>Intermittent slow connection times in the US East region</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The fix has proved to be working and now has been rolled out fully. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The fix is now partially rolled out, as mentioned in the last update expect some cases where connection times remain slow still. We'll be monitoring how things go and once confident enough roll out the fix fully. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We believe we've identified the root issue and have implemented a fix, we will be partially rolling out the fix and spend some time evaluating it to ensure it's working as expected. Pending the fix proves stable we will be rolling it out fully. Until the fix rolls out fully expect some cases where connection times remain slow still. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Issues are still intermittent, we have been working with our upstream providers to get to the bottom of the issue. Expect within the next few hours potential disconnects outside the actual issue as we look to diagnose the root issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Connection times appear to have returned to normal, we will be continuing to monitor the situation. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are observing issues once again with slow connection times on the PC platform &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Connection times appear to have returned to normal, we will be continuing to monitor the situation. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating users experiencing slow connection times on the PC platform specifically in the US East region &lt;/p&gt;      </description>
-      <pubDate>Sat, 17 Jan 2026 06:08:38 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/fjct0f21vl8l</link>
-      <guid>https://status.vrchat.com/incidents/fjct0f21vl8l</guid>
     </item>
   </channel>
 </rss>
