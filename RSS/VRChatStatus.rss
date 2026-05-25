@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 24 May 2026 23:03:47 +0000</pubDate>
+    <pubDate>Mon, 25 May 2026 00:59:58 +0000</pubDate>
+    <item>
+      <title>API Outage</title>
+      <description>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;      </description>
+      <pubDate>Mon, 25 May 2026 09:59:58 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/r11h3jky8fnh</link>
+      <guid>https://status.vrchat.com/incidents/r11h3jky8fnh</guid>
+    </item>
     <item>
       <title>Database Maintenance</title>
       <description>
@@ -215,14 +223,6 @@
       <pubDate>Sun, 08 Feb 2026 15:59:32 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/dl78s1nb5dt0</link>
       <guid>https://status.vrchat.com/incidents/dl78s1nb5dt0</guid>
-    </item>
-    <item>
-      <title>Network Connectivity Issues</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The fix has been rolled out to all servers in the Japan and Europe region. We will continue to monitor for a short while to ensure all is stable but generally the issue should now be resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We're currently working with our upstream provider to roll out corrective measures to improve the overall stability of our realtime servers in the Japan and Europe region. These configuration updates may cause brief interruptions while they're being applied. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The aforementioned changes have been successfully rolled out and all realtime networking servers in the US-West region are back online. We'll continue monitoring for stability. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We're currently working with our upstream provider to roll out corrective measures to improve the overall stability of our realtime servers in the US-West region. These configuration updates may cause brief interruptions while they're being applied. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;05:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are aware of some issues resulting in disconnections and inability to log into VRChat. We suspect that this is related to an upstream provider. &lt;/p&gt;      </description>
-      <pubDate>Tue, 20 Jan 2026 20:59:14 +0900</pubDate>
-      <link>https://status.vrchat.com/incidents/13tt206976hh</link>
-      <guid>https://status.vrchat.com/incidents/13tt206976hh</guid>
     </item>
   </channel>
 </rss>
