@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-06-06T17:25:54.871003+09:00",
+    "fetched_at": "2026-06-07T05:25:55.617140+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "c6134d33bda45a06a570a27818715bb92b65e505e408f03de5dd51c2673a22c7",
       "last_updated": "2026-06-07T05:24:22.007935+09:00",
-      "last_checked": "2026-06-07T05:24:22.007935+09:00"
+      "last_checked": "2026-06-07T05:25:55.617278+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "48a70d4336cbb507a5e67d24299758b26ccb572b352804110d4a3da628bd4021",
-      "last_updated": "2026-06-07T05:24:25.752288+09:00",
-      "last_checked": "2026-06-07T05:24:25.752288+09:00"
+      "hash": "87e979859f12e9feedd69b2832327fa76df8eed6b3eec076011c49b4bcc766c7",
+      "last_updated": "2026-06-07T05:25:56.130219+09:00",
+      "last_checked": "2026-06-07T05:25:56.130219+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "288eda7a40d07c511e3f40b216866dda4dc7ff8f3a712bed0f1f8d6400645c66",
       "last_updated": "2026-06-07T05:24:29.403702+09:00",
-      "last_checked": "2026-06-07T05:24:29.403702+09:00"
+      "last_checked": "2026-06-07T05:25:57.377861+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "668b37faf6185ecd6dd6176a33c4104ca44b09eb8d9b1cec21a89036957d29df",
@@ -152,9 +152,9 @@
       "last_checked": "2026-06-07T05:24:46.447769+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "89c8aebecb4d138bf67546c51bcf9007de201d59b394c6f145a9146371a790d9",
-      "last_updated": "2026-06-07T05:23:09.349297+09:00",
-      "last_checked": "2026-06-07T05:23:09.349297+09:00"
+      "hash": "bde9d667516e7ebf376c41fbfa0c206fdbfc06c3e405f4a988f0a5182726662f",
+      "last_updated": "2026-06-07T05:25:58.103975+09:00",
+      "last_checked": "2026-06-07T05:25:58.103975+09:00"
     },
     "CampFireVRChat": {
       "hash": "7100ed2bdac64a9fb26bfe08fa76ea2b07294dce6aaa904c402efbceb4691c69",
