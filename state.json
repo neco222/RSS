@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "a0483b852c7858410dfb3b477856c3df284e904e",
-    "fetched_at": "2026-06-07T05:25:55.617140+09:00",
+    "fetched_at": "2026-06-07T17:27:07.911330+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -124,17 +124,17 @@
     "VRChatStatus": {
       "hash": "8d268cd596d6322bb8d2b7bf9d2ea68d124a16e5e95dfde5a82ec96ce9432b5c",
       "last_updated": "2026-06-07T16:10:29.248767+09:00",
-      "last_checked": "2026-06-07T17:25:43.128587+09:00"
+      "last_checked": "2026-06-07T17:27:07.911466+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "hash": "53298ba1b0eb5602ff6ba77a5c23004bed8166e191563bb678bf74b4b3e9748b",
-      "last_updated": "2026-06-07T17:25:43.619996+09:00",
-      "last_checked": "2026-06-07T17:25:43.619996+09:00"
+      "hash": "c1c8e173f3213f06044c3458f161a27b78f2a7112d9179fc22729a235f1e381a",
+      "last_updated": "2026-06-07T17:27:08.389322+09:00",
+      "last_checked": "2026-06-07T17:27:08.389322+09:00"
     },
     "VRChatStatus.atom": {
       "hash": "195ae55a308e06e7e160f7e54eb7752437a917bd196ef9e2b8177cc6537701b8",
       "last_updated": "2026-06-07T16:10:40.082130+09:00",
-      "last_checked": "2026-06-07T17:25:45.051228+09:00"
+      "last_checked": "2026-06-07T17:27:09.904875+09:00"
     },
     "BoothVRChat-ACC": {
       "hash": "6a29f7f57926a570f1766824cd3bb453bf129b836423a250d7f5f34a93fc08fa",
@@ -152,9 +152,9 @@
       "last_checked": "2026-06-07T17:25:57.095685+09:00"
     },
     "BoothVRChat-avater": {
-      "hash": "e5b7c6bff4ede174c69e440c20583e34abb8aa3a8b82c1a3f5028a56fb9dfba5",
-      "last_updated": "2026-06-07T17:24:32.710320+09:00",
-      "last_checked": "2026-06-07T17:24:32.710320+09:00"
+      "hash": "01d968ffb386fbf2ebdc18b983f3bbb9a508cc104467caa538b5659ab50d92fc",
+      "last_updated": "2026-06-07T17:27:10.279772+09:00",
+      "last_checked": "2026-06-07T17:27:10.279772+09:00"
     },
     "CampFireVRChat": {
       "hash": "fa5feece72f7827acec6944fc24dc3e38d490a595a3d65a98bc2294417c6a75a",
@@ -285,7 +285,7 @@
         }
       },
       "last_created_at": "2026-03-25T10:29:19Z",
-      "last_checked": "2026-06-07T17:21:59.030425+09:00",
+      "last_checked": "2026-06-07T17:27:15.968977+09:00",
       "last_updated": "2026-03-25T19:33:42.150590+09:00"
     }
   }
