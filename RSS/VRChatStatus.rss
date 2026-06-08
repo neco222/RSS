@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 08 Jun 2026 03:45:50 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 03:47:06 +0000</pubDate>
     <item>
       <title>API Issues</title>
       <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Our mitigations are working and we're seeing latency and errors recover, we'll continue monitoring to ensure things remain stable. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue as a hardware failure and are working to mitigate it &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing increased latency and errors with our API &lt;/p&gt;      </description>
-      <pubDate>Mon, 08 Jun 2026 12:45:50 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Our mitigations are working and we've seeing latency and errors recover, we'll continue monitoring to ensure things remain stable. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue as a hardware failure and are working to mitigate it &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing increased latency and errors with our API &lt;/p&gt;      </description>
+      <pubDate>Mon, 08 Jun 2026 12:47:06 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/pgf9w3b6vycc</link>
       <guid>https://status.vrchat.com/incidents/pgf9w3b6vycc</guid>
     </item>
