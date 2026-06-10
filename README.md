@@ -1,4 +1,7 @@
 ## 更新ログ
+- 2026-06-10 15:47:06 JST — VRChatStatus-ManualGet
+- 2026-06-10 15:47:07 JST — VRChatStatus.atom
+
 - 2026-06-10 15:45:05 JST — VRChatStatus
 - 2026-06-10 15:45:16 JST — VRChatStatus-ManualGet
 - 2026-06-10 15:45:17 JST — VRChatStatus.atom
