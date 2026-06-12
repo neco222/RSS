@@ -1,4 +1,10 @@
 ## 更新ログ
+- 2026-06-13 00:31:32 JST — VRChatStatus-ManualGet
+- 2026-06-13 00:31:35 JST — BoothVRChat-ACC
+- 2026-06-13 00:31:42 JST — BoothVRChat-clothe
+- 2026-06-13 00:31:52 JST — BoothVRChat-world
+- 2026-06-13 00:31:58 JST — BoothVRChat-avater
+
 - 2026-06-13 00:30:25 JST — VRChatStatus-ManualGet
 
 - 2026-06-13 00:28:50 JST — VRChatStatus-ManualGet
